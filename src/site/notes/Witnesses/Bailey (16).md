@@ -3,8 +3,6 @@
 ---
 
 
-[TOC]
-
 ## 1. Research notes
 
 ### 1.1.Description of manuscript
