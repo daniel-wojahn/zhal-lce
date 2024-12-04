@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/witnesses/zc-16-bhutan/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/witnesses/zc-16-bhutan/"}
 ---
 
 
