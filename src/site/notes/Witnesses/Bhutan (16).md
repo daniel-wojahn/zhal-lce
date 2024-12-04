@@ -2,7 +2,14 @@
 {"dg-publish":true,"permalink":"/witnesses/bhutan-16/"}
 ---
 
+```ad-check
+title: Progress
+- [x] Import to Transkribus
+- [x] Layout analysis
+- [x] HTR of folios
+- [ ] Proof-read folios (38/128)
 
+```
 ## I. Publication details
 Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. Blockprint. Thimphu: Kunsang Topgyel And Mani Dorji. [http://purl.bdrc.io/resource/W26040](http://purl.bdrc.io/resource/W26040)
 

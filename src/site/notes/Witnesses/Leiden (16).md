@@ -2,7 +2,16 @@
 {"dg-publish":true,"permalink":"/witnesses/leiden-16/"}
 ---
 
+```ad-check
+title: Progress
+- [x] Orientation, deskewing and colour adjustment of raw images
+- [x] Cropping of working images
+- [x] Import to Transkribus
+- [x] Layout analysis
+- [x] HTR of folios
+- [ ] Proof-read folios (21/112)
 
+```
 ## I. Publication details & remarks
 
 Phun tshogs lung rtogs (scribe/copier). 1923. ‘Khrims yig zhal lce 13 dang 16 bcas le tshan gnyis yod’. Calcutta. I.KERN Br.79/M76. Kern Institute (Leiden University). [http://hdl.handle.net/1887.1/item:321272](http://hdl.handle.net/1887.1/item:321272).

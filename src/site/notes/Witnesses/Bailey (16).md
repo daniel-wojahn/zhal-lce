@@ -57,17 +57,17 @@ While these variations might be meaningful rather than just decorative, I will n
 
 ## 2. Table of contents
 
-2.1. **Preface** 
+### 1. **Preface** 
 
 * discussing the origins of law in Tibet with recourse to the Tibetan imperial period \[fol.4a–15b] However, there seems to be one folio missing as the last sentence on fol.15b is incomplete.
 
-2.2. **Additional notes** 
+### 2. **Additional notes
 * written in a different hand \[16a–16b(2)]
 
-2.3. **Introduction** 
+### 2.3. **Introduction** 
 * to the *zhal lce bcu drug* \[fol.16b(3)–19b.5]
 
-2.4. ***Zhal lce bcu drug*** \[19b.6–52b.3]
+### 2.4. ***Zhal lce bcu drug*** \[19b.6–52b.3]
 1. \[19b.5–26a.4]
 2. \[26a.5–27a.3]
 3. \[27a.3–28a.6]
@@ -76,8 +76,7 @@ While these variations might be meaningful rather than just decorative, I will n
 6. \[29b.2–30a.3]
 7. \[30a.3–31b.2]
 8. \[31b.2–35a.3]
-9. \[35a.4–39a.5] 
-* **Note:** 35b–36a are additional notes in different hand
+9. \[35a.4–39a.5] **Note:** 35b–36a are additional notes in different hand
 10. \[39a.6–41b.1]
 11. \[41b.2–46b.2]
 12. \[46b.2–46b.7]
@@ -86,21 +85,21 @@ While these variations might be meaningful rather than just decorative, I will n
 15. \[49a.4–49b.3]
 16. \[49b.4–52b.3]
 
-2.5. **An ordinance dealing with special cases of a harmful nature**
+### 2.5. **An ordinance dealing with special cases of a harmful nature**
 * such as arson, flooding of other people’s fields, and grazing offences) \[fol.52b.4–53a.7]
 
-2.6. **Very short regulation on the substitution of fines** (*tshad pa*) **by compensation in kind** 
+### 2.6. **Very short regulation on the substitution of fines** (*tshad pa*) **by compensation in kind** 
 * fol.53b–54a contain additional notes and break the main text of the regulation; fol.54b contain more additional notes written in another hand]
-2.7. **Principles concerning the official powers of the governors** (*rdzong dpon*) \[fol.56a–58b]
+### 2.7. **Principles concerning the official powers of the governors** (*rdzong dpon*) \[fol.56a–58b]
 
-2.8. **Report on historical events in northern Tibet** \[fol.60a–65a]
+### 2.8. **Report on historical events in northern Tibet** \[fol.60a–65a]
 * battle against Chogtu (d. 1637), one of the commanders of the late Ligdan Khan
 * account of the Tibetan campaign against the Bonpos of Beri)
 
-2.9. **Altan Khan’s (1507–1583) Legal Code** \[fol.66a–80b]
+### 2.9. [[Research/Altan Khan’s (1507–1583) Legal Code\|Altan Khan’s (1507–1583) Legal Code]]** \[fol.66a–80b]
 * **Note:** fol.73b–74a additional notes in different handwriting)
 
-2.10. **Conversion table for compensation payments**
+### 2.10. **Conversion table for compensation payments**
 * \[fol.81b–83b]
 
 2.11. Not yet identified additional notes
