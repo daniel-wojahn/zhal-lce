@@ -32,16 +32,16 @@ One noteworthy palaeographic feature is the use of an unusual punctuation mark w
 
 
 In this **first example**, we observe the final *shad* written almost as a colon. 
-![Bailey16-punctuation_img1.png](/img/user/Witnesses/assets/Bailey16-punctuation_img1.png)
+![Bailey16-punctuation_img1.png](/img/user/assets/Bailey16-punctuation_img1.png)
 
 A **second example** shows its use as a *tsheg* at the end of a line.
-![Bailey16-punctuation_img2.png](/img/user/Witnesses/assets/Bailey16-punctuation_img2.png)
+![Bailey16-punctuation_img2.png](/img/user/assets/Bailey16-punctuation_img2.png)
 
 This **third example** shows a triple colon after a final *tsheg* and *shad*.
-![Bailey16-punctuation_img3.png](/img/user/Witnesses/assets/Bailey16-punctuation_img3.png)
+![Bailey16-punctuation_img3.png](/img/user/assets/Bailey16-punctuation_img3.png)
 
 The mark here in this **fourth examples** appears quite different - it looks almost like a decorative flourish with a more elongated vertical element.
-![Bailey16-punctuation_img4.png](/img/user/Witnesses/assets/Bailey16-punctuation_img4.png)
+![Bailey16-punctuation_img4.png](/img/user/assets/Bailey16-punctuation_img4.png)
 
 ```ad-info
 title: The following questions remain
