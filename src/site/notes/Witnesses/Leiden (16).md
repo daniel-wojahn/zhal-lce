@@ -4,7 +4,7 @@
 
 ```ad-check
 title: Progress
-- [x] Orientation, deskewing and colour adjustment of raw images
+
 - [x] Cropping of working images
 - [x] Import to Transkribus
 - [x] Layout analysis
