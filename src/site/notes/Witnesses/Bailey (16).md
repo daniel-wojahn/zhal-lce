@@ -40,7 +40,7 @@ A **second example** shows its use as a *tsheg* at the end of a line.
 This **third example** shows a triple colon after a final *tsheg* and *shad*.
 ![Bailey16-punctuation_img3.png](/img/user/assets/Bailey16-punctuation_img3.png)
 
-The mark here in this **fourth examples** appears quite different - it looks almost like a decorative flourish with a more elongated vertical element.
+The mark here in this **fourth example** appears quite different - it looks almost like a decorative flourish with a more elongated vertical element.
 ![Bailey16-punctuation_img4.png](/img/user/assets/Bailey16-punctuation_img4.png)
 
 ```ad-info
@@ -57,50 +57,51 @@ While these variations might be meaningful rather than just decorative, I will n
 
 ## 2. Table of contents
 
-### 1. Preface 
+2.1. **Preface** 
 
 * discussing the origins of law in Tibet with recourse to the Tibetan imperial period \[fol.4a–15b] However, there seems to be one folio missing as the last sentence on fol.15b is incomplete.
 
-### 2. Additional notes 
+2.2. **Additional notes** 
 * written in a different hand \[16a–16b(2)]
 
-### 3. Introduction 
+2.3. **Introduction** 
 * to the *zhal lce bcu drug* \[fol.16b(3)–19b.5]
-### 4. *Zhal lce bcu drug* \[19b.6–52b.3]
-#### 4.1. \[19b.5–26a.4]
-#### 4.2. \[26a.5–27a.3]
-#### 4.3. \[27a.3–28a.6]
-#### 4.4. \[28a.6–29a.1]
-#### 4.5. \[29a.1–29b.2]
-#### 4.6. \[29b.2–30a.3]
-#### 4.7. \[30a.3–31b.2]
-#### 4.8. \[31b.2–35a.3]
-#### 4.9. \[35a.4–39a.5] 
-* **Note:** 35b–36a are additional notes in different hand
-#### 4.10. \[39a.6–41b.1]
-#### 4.11. \[41b.2–46b.2]
-#### 4.12. \[46b.2–46b.7]
-#### 4.13. \[46b.7–48a.5]
-#### 4.14. \[48a.6–49a.3]
-#### 4.15. \[49a.4–49b.3]
-#### 4.16. \[49b.4–52b.3]
 
-### 5. An ordinance dealing with special cases of a harmful nature
+2.4. ***Zhal lce bcu drug*** \[19b.6–52b.3]
+1. \[19b.5–26a.4]
+2. \[26a.5–27a.3]
+3. \[27a.3–28a.6]
+4. \[28a.6–29a.1]
+5. \[29a.1–29b.2]
+6. \[29b.2–30a.3]
+7. \[30a.3–31b.2]
+8. \[31b.2–35a.3]
+9. \[35a.4–39a.5] 
+* **Note:** 35b–36a are additional notes in different hand
+10. \[39a.6–41b.1]
+11. \[41b.2–46b.2]
+12. \[46b.2–46b.7]
+13. \[46b.7–48a.5]
+14. \[48a.6–49a.3]
+15. \[49a.4–49b.3]
+16. \[49b.4–52b.3]
+
+2.5. **An ordinance dealing with special cases of a harmful nature**
 * such as arson, flooding of other people’s fields, and grazing offences) \[fol.52b.4–53a.7]
 
-### 6. Very short regulation on the substitution of fines (*tshad pa*) **by compensation in kind** 
+2.6. **Very short regulation on the substitution of fines** (*tshad pa*) **by compensation in kind** 
 * fol.53b–54a contain additional notes and break the main text of the regulation; fol.54b contain more additional notes written in another hand]
-### 7. Principles concerning the official powers of the governors (*rdzong dpon*) \[fol.56a–58b]
+2.7. **Principles concerning the official powers of the governors** (*rdzong dpon*) \[fol.56a–58b]
 
-### 8. Report on historical events in northern Tibet \[fol.60a–65a]
+2.8. **Report on historical events in northern Tibet** \[fol.60a–65a]
 * battle against Chogtu (d. 1637), one of the commanders of the late Ligdan Khan
 * account of the Tibetan campaign against the Bonpos of Beri)
 
-### 9. Altan Khan’s (1507–1583) Legal Code \[fol.66a–80b]
+2.9. **Altan Khan’s (1507–1583) Legal Code** \[fol.66a–80b]
 * **Note:** fol.73b–74a additional notes in different handwriting)
 
-### 10. Conversion table for compensation payments
+2.10. **Conversion table for compensation payments**
 * \[fol.81b–83b]
 
-### 11. Not yet identified additional notes
+2.11. Not yet identified additional notes
 * in different handwriting \[fol.84b–86b]
