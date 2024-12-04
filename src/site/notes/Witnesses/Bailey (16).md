@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/witnesses/bailey-16/","tags":["gardenEntry"]}
 ---
 
-
 ## 1. Research notes
 
 ### 1.1.Description of manuscript
@@ -16,6 +15,35 @@ This manuscript seems to be the oldest textual witness of the *zhal lce bcu drug
 There are several indications that this manuscript must have been a student or research copy. While some manuscripts, such as [[Witnesses/Bell (16)\|Bell (16)]], show heavy signs of use and were produced in a handy travel size, Bailey (16) — by its size alone (36,5cm x 4,5cm) — is too impractical for quick consultation. 
 There are also three glued bookmarks: \[fol. 19b], which reads *zhal lce bcu drug*, and marks the beginning of the legal text; \[fol. 29b], which reads *drug pa bzung khrag sbyor* \[?], and marks the beginning of the sixth paragraph); and \[fol. 46b], *rkun khrims* \[?], marking the beginning of either the eleventh or twelfth paragraph.
 
+### 1.3. Paleographical features
+
+One noteworthy palaeographic feature is the use of an unusual punctuation mark which look like a colon (:), and serves primarily in two functions: *tsheg* replacement and final punctuation. The interesting aspect here is the shad marks - they seem to have a slightly decorative or elaborate form compared to the standard double shad we see in modern Unicode (།།). 
+
+
+In this **first example**, we observe the final *shad* written almost as a colon. 
+![Bailey16-punctuation_img1.png](/img/user/Witnesses/assets/Bailey16-punctuation_img1.png)
+
+A **second example** shows its use as a *tsheg* at the end of a line.
+![Bailey16-punctuation_img2.png](/img/user/Witnesses/assets/Bailey16-punctuation_img2.png)
+
+This **third example** shows a triple colon after a final *tsheg* and *shad*.
+![Bailey16-punctuation_img3.png](/img/user/Witnesses/assets/Bailey16-punctuation_img3.png)
+
+The mark here in this **fourth examples** appears quite different - it looks almost like a decorative flourish with a more elongated vertical element.
+![Bailey16-punctuation_img4.png](/img/user/Witnesses/assets/Bailey16-punctuation_img4.png)
+
+```ad-info
+title: The following questions remain
+
+1. Does this specialized punctuation potentially serve specific functions in legal writing, similar to how modern legal texts often have their own conventions for organizing and demarcating text?
+
+This variation in both form and function (alternating between *shad*-like and *tsheg*-like uses) makes it particularly challenging for Unicode representation. The fact that it can appear in these different forms – from the more dot-like structure to a more elongated version – suggests it might be more than just a simple punctuation variant.
+
+2. Could this perhaps be reflecting different scribal functions, like marking different types of breaks or transitions in the legal content? Or might it be serving some kind of emphasis function in certain contexts?
+
+While these variations might be meaningful rather than just decorative, I will need to evaluate this during the translation process.
+```
+
 ## 2. Table of contents
 
 ### 1. Preface 
@@ -27,7 +55,7 @@ There are also three glued bookmarks: \[fol. 19b], which reads *zhal lce bcu dru
 
 ### 3. Introduction 
 * to the *zhal lce bcu drug* \[fol.16b(3)–19b.5]
-### 4. Zhal lce bcu drug* \[19b.6–52b.3]
+### 4. *Zhal lce bcu drug* \[19b.6–52b.3]
 #### 4.1. \[19b.5–26a.4]
 #### 4.2. \[26a.5–27a.3]
 #### 4.3. \[27a.3–28a.6]
