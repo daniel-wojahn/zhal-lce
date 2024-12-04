@@ -2,6 +2,17 @@
 {"dg-publish":true,"permalink":"/witnesses/bailey-16/","tags":["gardenEntry"]}
 ---
 
+```ad-check
+title: Progress
+- [x] Orientation, deskewing and colour adjustment of raw images
+- [x] Cropping of working images
+- [ ] Import to Transkribus (54/168)
+- [ ] Layout analysis (54/168)
+- [ ] HTR of folios (51/168)
+- [ ] Proof-read folios (9/168)
+
+```
+
 ## 1. Research notes
 
 ### 1.1.Description of manuscript
