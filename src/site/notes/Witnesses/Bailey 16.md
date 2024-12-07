@@ -28,7 +28,11 @@ There are also three glued bookmarks: \[fol. 19b], which reads *zhal lce bcu dru
 
 ### 1.3. Paleographical features
 
-One noteworthy palaeographic feature is the use of an unusual punctuation mark which look like a colon (:), and serves primarily in two functions: *tsheg* replacement and final punctuation. The interesting aspect here is the shad marks - they seem to have a slightly decorative or elaborate form compared to the standard double shad we see in modern Unicode (།།). 
+One noteworthy palaeographic feature is the use of an unusual punctuation mark which look like a colon or double *tsheg*(:), and serves primarily in two functions: *tsheg* replacement and final punctuation. The interesting aspect here is the shad marks - they seem to have a slightly decorative or elaborate form compared to the standard double shad we see in modern Unicode (།།). 
+> [!seealso] See also
+> Sam van Schaik notes that the double *tsheg* was a regular feature in Dunhuang legal texts but soon vanished towards the 10th century.
+> https://readingtibetan.wordpress.com/resources/punctuation/ 
+
 
 
 In this **first example**, we observe the final *shad* written almost as a colon. 
@@ -39,6 +43,8 @@ A **second example** shows its use as a *tsheg* at the end of a line.
 
 This **third example** shows a triple colon after a final *tsheg* and *shad*.
 ![Bailey16-punctuation_img3.png](/img/user/assets/Bailey16-punctuation_img3.png)
+
+This, however, is likely not a *bsdus rtags* (༴, U+0F34), meaning ‘etc’, or ‘ditto’, and used to mark repetitions.
 
 The mark here in this **fourth example** appears quite different - it looks almost like a decorative flourish with a more elongated vertical element.
 ![Bailey16-punctuation_img4.png](/img/user/assets/Bailey16-punctuation_img4.png)
