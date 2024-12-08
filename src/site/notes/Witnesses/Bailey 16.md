@@ -102,7 +102,7 @@ While these variations might be meaningful rather than just decorative, I will n
 * battle against Chogtu (d. 1637), one of the commanders of the late Ligdan Khan
 * account of the Tibetan campaign against the Bonpos of Beri)
 
-### 2.9. [[Research/Altan Khan’s (1507–1583) Legal Code\|Altan Khan’s (1507–1583) Legal Code]]** \[fol.66a–80b]
+### 2.9. [[Research/Altan Khan’s (1507–1583) Legal Code\|Altan Khan’s (1507–1583) Legal Code]] \[fol.66a–80b]
 * **Note:** fol.73b–74a additional notes in different handwriting)
 
 ### 2.10. **Conversion table for compensation payments**
