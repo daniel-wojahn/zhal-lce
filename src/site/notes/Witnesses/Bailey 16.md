@@ -17,7 +17,7 @@ title: Progress
 
 ### 1.1.Description of manuscript
 
-Very thick firm paper. Sheet: 365 x 45 mm, folded across middle to form two leaves, stiched into sections with green cord. 
+Very thick firm paper. Sheet: 365 x 45 mm, folded across middle to form two leaves, stitched into sections with green cord. 
 Sections: 1) — 13 leaves; 2) – 20 leaves; 3) – 18 leaves; 4) – 20 leaves; and 5) – 13 leaves -> total 84 in all. Note that the sections do not correspond to the content.
 
 ### 1.2. Remarks
@@ -29,6 +29,7 @@ There are also three glued bookmarks: \[fol. 19b], which reads *zhal lce bcu dru
 ### 1.3. Paleographical features
 
 One noteworthy palaeographic feature is the use of an unusual punctuation mark which look like a colon or double *tsheg*(:), and serves primarily in two functions: *tsheg* replacement and final punctuation. The interesting aspect here is the shad marks - they seem to have a slightly decorative or elaborate form compared to the standard double shad we see in modern Unicode (།།). 
+
 > [!seealso] See also
 > Sam van Schaik notes that the double *tsheg* was a regular feature in Dunhuang legal texts but soon vanished towards the 10th century.
 > https://readingtibetan.wordpress.com/resources/punctuation/ 
