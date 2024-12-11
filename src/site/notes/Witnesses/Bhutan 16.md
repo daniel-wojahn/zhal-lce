@@ -7,7 +7,7 @@ title: Progress
 - [x] Import to Transkribus
 - [x] Layout analysis
 - [x] HTR of folios
-- [ ] Proof-read folios (117/128)
+- [x] Proof-read folios
 
 ```
 ## I. Publication details
