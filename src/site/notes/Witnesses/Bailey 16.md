@@ -8,8 +8,8 @@ title: Progress
 - [x] Cropping of working images
 - [ ] Import to Transkribus (54/168)
 - [ ] Layout analysis (54/168)
-- [ ] HTR of folios (51/168)
-- [ ] Proof-read folios (9/168)
+- [ ] HTR of folios (54/168)
+- [ ] Proof-read folios (13/168)
 
 ```
 
