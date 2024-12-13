@@ -13,15 +13,7 @@ title: Progress
 ## I. Publication details
 Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. Blockprint. Thimphu: Kunsang Topgyel And Mani Dorji. [http://purl.bdrc.io/resource/W26040](http://purl.bdrc.io/resource/W26040)
 
-
-## II. Manuscript
- <div class="iiif-viewer" data-manifest="https://iiifpres.bdrc.io/vo:bdr:I4325/manifest" data-height="600px"></div>
-
-
-<iframe src="https://projectmirador.org/embed/?iiif-content=https://iiifpres.bdrc.io/vo:bdr:I4325/manifest" width="100%" height="600px" style="border: none;"> </iframe>
-
-
-## III. Table of Contents
+## II. Table of Contents
 ### 1. Homage \[fol. 2.1-3.4]
 ### 2. Table of contents (*dkar chag*) \[fol. 3.4-4.3]
 ### 3. The life-stories of the lineage of the kings of Upper Tsang \[fol. 4.3-21.3]  
@@ -51,7 +43,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
  15. *nam phar tshur gyi zhal che* \[fol. 113.4-116.2]
  16. *kla klo mtha' 'khob kyi zhal che* \[fol. 116.3-124.6]
 
-## Transcription
+## III. Transcription
 
 ### Page 1
 
