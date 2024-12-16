@@ -9,7 +9,7 @@ title: Progress
 - [ ] Import to Transkribus (54/168)
 - [ ] Layout analysis (54/168)
 - [ ] HTR of folios (54/168)
-- [ ] Proof-read folios (13/168)
+- [ ] Proof-read folios (28/168)
 
 ```
 
