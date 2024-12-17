@@ -6,10 +6,10 @@
 title: Progress
 - [x] Orientation, deskewing and colour adjustment of raw images
 - [x] Cropping of working images
-- [ ] Import to Transkribus (54/168)
-- [ ] Layout analysis (54/168)
-- [ ] HTR of folios (54/168)
-- [ ] Proof-read folios (28/168)
+- [x] Import to Transkribus
+- [x] Layout analysis
+- [x] HTR of folios
+- [ ] Proof-read folios (39/168)
 
 ```
 
