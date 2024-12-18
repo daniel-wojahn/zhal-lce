@@ -49,7 +49,7 @@ Phun tshogs lung rtogs (scribe/copier). 1923. ‘Khrims yig zhal lce 13 dang 16 
 #### 6.15. *nam phar tshur gyi zhal che* \[pp. 162.14–164.17]
 #### 6.16. *kla klo mtha' 'khob kyi zhal che* \[pp. 165.1–171.11]
 
-### 7. Conclusion \[pp. 172.1–186.8]
+### 7. An untitled historical essay concerning several administrative and political offices/personnel \[pp. 172.1–186.8]
 #### **Colophon \[p. 186] reads:** 
 *Original copy ends here; is incomplete. Probably little is wanting, perhaps one or two leaves. Last leaf of original copy 89. Copied by Gegan Dung yik Phuntshogs. In March 1923. Finished 24/3/1923. Original copy brought from Tibet, on loan, by the Dorjedan Geshe {Signature J.M.}. See for the work its summary in the Gazetteer of Sikhim, pp 46 ffl., on “Sikhim Laws”. It is the same work as the one described there.*
 
