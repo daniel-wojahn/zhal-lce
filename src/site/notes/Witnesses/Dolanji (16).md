@@ -8,7 +8,7 @@
 - Reproduced from a new copy of an ancient manuscript from Sog tsan dan dgon near Nag chu kha
 - The complete blockprint contains a variety of shorter treatises and essays on legal history, examples cases, regulations, geography, administration
 - **Has a longer (seemingly general) preface \[fol. 2–26]**
-- **fol. 182.1–183.2 seems to have been added later or re-carved (it uses abbreviations not commonly found on other pages and the carvings are less delicate than the rest)
+- **fol. 182.1–183.2 seems to have been added later or re-carved (it uses abbreviations not commonly found on other pages and the carvings are less delicate than the rest)**
 
 
 
