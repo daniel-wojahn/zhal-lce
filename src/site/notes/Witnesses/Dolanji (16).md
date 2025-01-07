@@ -2,25 +2,15 @@
 {"dg-publish":true,"permalink":"/witnesses/dolanji-16/"}
 ---
 
-```ad-check
-title: Progress
-- [x] Import to Transkribus
-- [x] Layout analysis
-- [x] HTR of folios
-- [ ] Proof-read folios (148/213)
-
-```
-
 ## I. Publication details & remarks
 སྡེ་པ་གཙང་པའི་ཁྲིམས་ཡིག་ཞལལྕེ ༡༦ དང་དགའ་ལྡན་ཕོ་བྲང་བའི་ཞལ་ལྕེ ༡༢ སོགས་ཉེར་མཁོ་སྣ་ཚོགས། / *sde pa gtsang pa'i khrims yig zhal lce 16 dang dga' ldan pho brang ba'i zhal lce 12 sogs nyer mkho sna tshogs*. 1985. Dolanji, Ochghat, Himachal Pradesh: Tibetan Bonpo Monastic Community. [http://purl.bdrc.io/resource/W24038](http://purl.bdrc.io/resource/W24038)
 
 - Reproduced from a new copy of an ancient manuscript from Sog tsan dan dgon near Nag chu kha
 - The complete blockprint contains a variety of shorter treatises and essays on legal history, examples cases, regulations, geography, administration
 - **Has a longer (seemingly general) preface \[fol. 2–26]**
+- **fol. 182.1–183.2 seems to have been added later or re-carved (it uses abbreviations not commonly found on other pages and the carvings are less delicate than the rest)
 
-## II. Manuscript
 
-<iframe src="https://projectmirador.org/embed/?iiif-content=https://iiifpres.bdrc.io/vo:bdr:I3648/manifest" width="100%" height="600px" style="border: none;"> </iframe>
 
 ## II. Table of Contents
 
@@ -48,3 +38,8 @@ title: Progress
 #### 6.15. ནམ་ཕར་ཚུར་གྱི་ཞལ་ལྕེ། (*nam phar tshur gyi zhal lce*) \[fol. 165.4–169.2]
 #### 6.16. ཀླཀློ་མཐའ་འཁོབ་ཀྱི་ཞལ་ལྕེ། (*kla klo mtha' 'khob kyi zhal lce*) \[fol. 169.2–179.5]
 ### 7. ལུང་རྒྱབ་ཀྱི་ཁྲིམས་ཡིག་རྙིང་པའི་ལོ་རྒྱུས་དང་གཏམ་རྒྱུད་ཞར་བྱུང་དུ་བྱུང་བ། (*lung rgyab kyi khrims yig rnying pa'i lo rgyus dang gtam rgyud zhar byung du byung ba*) \[fol. 180.4–213.1]
+
+
+## III. Transcription
+
+tbc
