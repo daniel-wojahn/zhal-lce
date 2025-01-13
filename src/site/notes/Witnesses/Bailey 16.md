@@ -71,6 +71,7 @@ While these variations might be meaningful rather than just decorative, I will n
 ### 2. **Additional notes
 * written in a different hand \[16a–16b(2)]
 
+While this text fragment is incomplete, it can be classified as མངོན་བརྗོད་, or descriptive writing. It offers vivid depictions of natural elements like clouds, rain, and lightning. The text also ties these elements to larger cosmic and symbolic ideas, showing how they fit into an interconnected system where nature reflects broader metaphysical truths. For example, clouds and rain are not just weather phenomena but are portrayed as part of a cycle that connects the earth and sky, symbolizing renewal and the flow of life. Similarly, light and shadow are depicted as forces that interact, representing balance and transformation in both the physical and spiritual realms—the natural world thus mirrors and participates in a cosmic order and these observations seemingly serve as a way of understanding existence through the lens of the elements.
 ### 2.3. **Introduction** 
 * to the *zhal lce bcu drug* \[fol.16b(3)–19b.5]
 

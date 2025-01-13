@@ -39,14 +39,14 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 1
 
-![0001_p001.jpg](/img/user/assets/Bhutan_(16)/0001_p001.jpg)
+![0001_p001.jpg](/img/user/assets/Leiden_(16)/0001_p001.jpg)
 
 གཅིག་
 ༄༅ །བོད་ཀྱི་ཁྲིམས་ཡིག་ཅེས་བྱ་བ་བཞུགས་སོ། །
 
 ### Page 2
 
-![0002_p002.jpg](/img/user/assets/Bhutan_(16)/0002_p002.jpg)
+![0002_p002.jpg](/img/user/assets/Leiden_(16)/0002_p002.jpg)
 
 ༄༅༅། །གང་ཞིག་འཇིག་རྟེན་ཁམས་འདིར་ཕན་བདེའི་དཔལ། །རྒྱལ་ཁྲིམས་གསེར་གྱི་་་་
 འཁོར་ལོ་རྩབིས་སྟོང་གི། །མཐའ་བཞི་རྣམས་མནན་ཆོས་ཀྱི་རྒྱལ་པོའི་སྡེ། །སྙན་པའབྲུག་ལྟར་ཆེ་བ་་
@@ -55,7 +55,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 3
 
-![0003_p003.jpg](/img/user/assets/Bhutan_(16)/0003_p003.jpg)
+![0003_p003.jpg](/img/user/assets/Leiden_(16)/0003_p003.jpg)
 
 གཉིས་
 ༄༅། །འདྲ། །ཆོས་སྲིད་སྐྱོངས་ལ་འཇམ་དཔལ་དབྱངས། །མངའ་འབངས་རྣམས་ལ་་
@@ -65,7 +65,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 4
 
-![0004_p004.jpg](/img/user/assets/Bhutan_(16)/0004_p004.jpg)
+![0004_p004.jpg](/img/user/assets/Leiden_(16)/0004_p004.jpg)
 
 ལས། གཙང་སྟོད་རྒྱལ་པོའི་གདུང་རབས་ཀྱི་རྣམ་ཐར། དེའི་ཕོ་བྲང་དང་མངའ་ཁུལ་གྱི་ཆེ་བ། དེའི་བཀའ་ཁྲིམས་གྱི་ལུགས་དང་
 བཀའ་ཆེམས། དེའི་སྤངས་བླངས་དོན་གོ་བའི་ཞལ་ལྕེ། དེ་རྣམས་ཀྱི་ལུང་རྒྱབ་ཏུ་ཞར་བྱུང་གི་དོན་གྱི་ཁྲིམས་ཡིག་དང་གཏམ་བརྒྱུད་་་་
@@ -76,7 +76,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 5
 
-![0005_p005.jpg](/img/user/assets/Bhutan_(16)/0005_p005.jpg)
+![0005_p005.jpg](/img/user/assets/Leiden_(16)/0005_p005.jpg)
 
 གསུམ་
 ༄༅། །ལ་སྤྲེའུའི་ལག་རྩེད་བྱས་པ་ལྟར་བཞད་མོའི་གནས་སུ་འདུག་ཀྱང་རང་རང་གི་མོས་ངོར་ཤར་བ་ཅུང་ཟད་འབྲི་བར་་་
@@ -88,7 +88,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 6
 
-![0006_p006.jpg](/img/user/assets/Bhutan_(16)/0006_p006.jpg)
+![0006_p006.jpg](/img/user/assets/Leiden_(16)/0006_p006.jpg)
 
 ཅིང་། དེ་ནས་བར་གྱི་མཇུག་ཕྱི་མའི་འགོའི་བར་དེར། བོད་དབུས་གཙང་འདིར་གློ་བུར་གྱི་མི་རྒོད་འགའ་ཞིག་གིས་ཡུལ་གྱི་ས་སྣེ་་་་
 རྣམས་སུ་རྫོང་བརྩིགས་ཡུལ་སོ་སོ་བདག་ཏུ་བཟུང་སྟེ། རང་རང་འདོད་པའི་འཁྲུལ་འཁོར་གྱིས་བསམ་སྦྱོར་མི་བསྲུན་པའི་དམག་མཚོན་་་
@@ -99,7 +99,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 7
 
-![0007_p007.jpg](/img/user/assets/Bhutan_(16)/0007_p007.jpg)
+![0007_p007.jpg](/img/user/assets/Leiden_(16)/0007_p007.jpg)
 
 བཞི་
 ༄༅།  །རྒྱལ་རབས་འདི་ནི་སྐུ་རུས་ནི་ཁྲི་སོང་ལྡེའུ་བཙན་ཡབ་སས་ཀྱི་རིང་ལ་རྡོ་རྗེ་ཐེག་པ་ལ་གྲུབ་པ་བརྙེས་པའི་སྐྱེས་ཆེན་་་
@@ -111,7 +111,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 8
 
-![0008_p008.jpg](/img/user/assets/Bhutan_(16)/0008_p008.jpg)
+![0008_p008.jpg](/img/user/assets/Leiden_(16)/0008_p008.jpg)
 
 བརྗོད་ཀྱི་མི་ལང་བ་འདུག་ཀྱང་འབྲི་བར་མི་ལངཞིང་ཟུར་ཙམ་ཞིག་བརྗོད་པ་ལས། གནམ་སྦྱིན་མིའི་དབང་པོ་ཞིང་ཤག་ཚེ་བརྟན་རྡོ་རྗེ་དེ་ཉིད་་
 ལ༑ རྒྱལ་བ་ཀརྨ་པ་མི་བསྐྱོད་རྡོ་རྗེ་དང་། རྗེ་བཙུན་དམ་པ་ཀུན་དགའ་སྒྲོལ་མཆོག་གིས་དབུས་གཙང་ལ་མངའ་བསྒྱུར་བར་ལུང་བསྟན་་་
@@ -122,7 +122,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 9
 
-![0009_p009.jpg](/img/user/assets/Bhutan_(16)/0009_p009.jpg)
+![0009_p009.jpg](/img/user/assets/Leiden_(16)/0009_p009.jpg)
 
 ལྔ་
 ༄༅། །རྒྱུས་གེ་སར་གྱི་སྒྲུངས་དང་མཚུངས་པ་འདུག་ཀྱང་འབྲིར་མནུས། འདི་གསུམ་གྱི་སྐུ་དྲིན་ལས་མཚན་དོན་གྱི་་་
@@ -134,7 +134,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 10
 
-![0010_p010.jpg](/img/user/assets/Bhutan_(16)/0010_p010.jpg)
+![0010_p010.jpg](/img/user/assets/Leiden_(16)/0010_p010.jpg)
 
 རྩུབ་ཅན་རྣམས་ཀྱང་ཚར་བཅད་དེ། བཀའ་ཁྲིམས་བཟང་པོར་རྒན་མོ་གསེར་ཁུར་གྱི་དུས་འཇམ་དར་ཡུག་གཅིག་ཏུ་བསྐྱངས་དེ་ནས་ས་་་་
 ཕོ་རྟའི་ལོ་ཧོར་སོག་ཀླ་ཀློའི་དམག་ཚན་པོ་ཆེ་བོད་དུ་ལུད། བྱང་ཁམས་ཐམས་ཅད་དམག་གིས་བཅོམ། ལྷ་ས་གཙུག་ལག་ཁང་ཀྱང་ཧོར་
@@ -145,7 +145,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 11
 
-![0011_p011.jpg](/img/user/assets/Bhutan_(16)/0011_p011.jpg)
+![0011_p011.jpg](/img/user/assets/Leiden_(16)/0011_p011.jpg)
 
 དྲུག་
 ༄༅། །གཤམས་ཏེ། དཔུང་ཚོགས་ཡན་ལག་བརྒྱད་ལྡན་སྟོད་ལུང་མདར་ཕབ། ལྷའི་དམག་ཚོགས་པ་ལ་་་་་
@@ -157,7 +157,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 12
 
-![0012_p012.jpg](/img/user/assets/Bhutan_(16)/0012_p012.jpg)
+![0012_p012.jpg](/img/user/assets/Leiden_(16)/0012_p012.jpg)
 
 སྤྲིན་རབ་འབྱམས་རྒྱ་མཚོའི་ཚོགས་དཔག་ཏུ་མེད་པ་་་་་་་ཁོར་ཨུག་ཏུ་བསྟར་ཆག་ས་སུ་འཛུགས་པར་མཛད། མཐའ་འདུལ་ཡང་་་་་
 འདུལ་ཡང་འདུལ་གྱི་གཙུག་ལག་ཁང་སོགས་སུའང་མཆོད་པ་རྒྱ་ཆེར་གནང་། སེ་འབྲས་དགེ་གསུམ་གྱིས་གཙོས་པའི་ཆོས་སྡེ་རྣམས་ཀྱི་་
@@ -168,7 +168,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 13
 
-![0013_p013.jpg](/img/user/assets/Bhutan_(16)/0013_p013.jpg)
+![0013_p013.jpg](/img/user/assets/Leiden_(16)/0013_p013.jpg)
 
 བདུན་
 ༄༅།  །མཛད་པལོ།།  །། ༈ དེའི་སྲས་ཕྱག་ན་རྡོ་རྗིའི་སྤྲུལ་པ་ཆོས་སྐྱོང་བའི་རྒྱལ་པོའི་སྐུའི་་་་་་
@@ -180,7 +180,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 14
 
-![0014_p014.jpg](/img/user/assets/Bhutan_(16)/0014_p014.jpg)
+![0014_p014.jpg](/img/user/assets/Leiden_(16)/0014_p014.jpg)
 
 སྐར་མ་དུས་སྦྱོར་དང་། ཁྱད་པར་པདྨ་གླིང་པའི་ལུང་བསྟན་ཀུན་གསལ་མེ་ལོང་དུ། ཨོ་རྒྱུན་གྱི་སྦས་ཡུལ་ནས་བོད་དུ་ཕེབས་པའི་་་
 དུས་ཡུལ་གྱི་མིང་ལ་སེང་གེ་ལུང་དུ་བཏགས། དེར་མཆོད་རྟེན་ཞིག་མཛད་ནས་རྒྱལ་པོ་སྐྱེས་སུ་མཚན་གསོལ། མའོངས་པ་ན།
@@ -191,7 +191,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 15
 
-![0015_p015.jpg](/img/user/assets/Bhutan_(16)/0015_p015.jpg)
+![0015_p015.jpg](/img/user/assets/Leiden_(16)/0015_p015.jpg)
 
 བརྒྱད་
 ༄༅།  །འབྲི་ཀློག་ལ་སོགས་པའང་བརྡ་ཙམ་གྱིས་མཁྱེན་ཞིང་། རིག་གནས་མཁས་པ། འཕོངས་དང་སྒྱུ་ཙམ་གྱི་
@@ -203,7 +203,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 16
 
-![0016_p016.jpg](/img/user/assets/Bhutan_(16)/0016_p016.jpg)
+![0016_p016.jpg](/img/user/assets/Leiden_(16)/0016_p016.jpg)
 
 པོར་གྱུར་པའོ། །སླར་ཧོར་སོག་གི་དམག་སྐོར་གཅིག་བོད་དུ་ལྷགས་ཏེ་སྐྱིད་ཤོད་ལུང་པར་གནས་བཅས། ལྷ་ས་ཟིན་ཇོཀཱརིན་པོ་
 ཆེའི་མཆོད་སྤྲིན་ལོ་གཉིས་བཅག །དུས་མ་བདེ་བ་ལ། ཆོས་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ཀྱིས་དམག་དཔོན་རུ་བཞིའི་ལས་བཀའ་བསྐོས།
@@ -214,7 +214,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 17
 
-![0017_p017.jpg](/img/user/assets/Bhutan_(16)/0017_p017.jpg)
+![0017_p017.jpg](/img/user/assets/Leiden_(16)/0017_p017.jpg)
 
 དགུ་
 བསམ་སྡིང་སོགས་བསྟནཔའི་ཞལ་གསོ་རྣམས་ལེགས་པར་གྲུབ་པ་མཛད། རྗེ་བཙུན་དམ་པ་་ཀུན་་
@@ -226,7 +226,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 18
 
-![0018_p018.jpg](/img/user/assets/Bhutan_(16)/0018_p018.jpg)
+![0018_p018.jpg](/img/user/assets/Leiden_(16)/0018_p018.jpg)
 
 དགེ་རྒྱུན་ཀྱང་བརྒྱ་གྲངས་མང་པོ་འབུལ་སྦྱོར་མཛད་པ་དང་ཁྱད་པརདུ་ཆོས་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ཀྱིས་མཛད་ཆེན་ལྔར་གྲགས་པ་ནི་སངས་རྒྱས་ཀྱི་་་
 བསྟན་པ་རིན་པོཆིའི་ཞབས་ནས་འདེགས་པ་དང་། ཆོས་བཞིན་སྐྱོང་བའི་རྒྱལ་པོའི་ལུགས་བཟུང་བའི་ཕྱིར་བན་སེར་མོ་བའི་ཕྱག་མི་བཞེས་་
@@ -237,7 +237,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 19
 
-![0019_p019.jpg](/img/user/assets/Bhutan_(16)/0019_p019.jpg)
+![0019_p019.jpg](/img/user/assets/Leiden_(16)/0019_p019.jpg)
 
 བཅུ་ཐམ་པ
 བར་བོད་ཁྲིམས་བར་དུ་ལད་པ་རྣམས་གསོརའཇུག་ཕྱིར་བཀའ་ཁྲིམས་ཀྱི་གའུ་ལི་ཆན་མོ་བསྒྲིགས་པ་གནང་་་་
@@ -249,7 +249,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 20
 
-![0020_p020.jpg](/img/user/assets/Bhutan_(16)/0020_p020.jpg)
+![0020_p020.jpg](/img/user/assets/Leiden_(16)/0020_p020.jpg)
 
 ཡིད་བཞིན་ནོར་བུ་ལ་ཐག་རིང་མཐའ་འཁོབ་ནས་མཎྜལ་ན་བཟའ་ཕུལ་བ། ཕ་མ་དྲིན་ཅན་གྱི་རུས་པ་སྐྱོལ་བ། ཐོད་པ་གཏུགས་ནས་སྨོན་་་་
 ལམ་རྒྱག་པ་དང་། གྲུབ་མཐའ་རིས་མེད་ཀྱི་ཆོས་ཀྱི་སྡེ་རྣམས་སུ་འབུལ་སྐྱེལ་སོགས་དགེ་རྒྱུན་གཟེར་ཟམ་གྱི་བདེ་ཐབས་ཀྱི་བྱང་རུ་རིགས་ཀྱི་་་
@@ -260,7 +260,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 21
 
-![0021_p021.jpg](/img/user/assets/Bhutan_(16)/0021_p021.jpg)
+![0021_p021.jpg](/img/user/assets/Leiden_(16)/0021_p021.jpg)
 
 བཅུ་གཅིག་
 ༄༅། །གཙང་གི་བར་རྒན་མོ་གསེར་འཁུར་ལྟ་བུའི་དུས་བདེ་བར་མཛད་པ་དང་ལྔ་། གཞན་ཡང་ཞི་རྒྱས་དབང་དྲག་
@@ -272,7 +272,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 22
 
-![0022_p022.jpg](/img/user/assets/Bhutan_(16)/0022_p022.jpg)
+![0022_p022.jpg](/img/user/assets/Leiden_(16)/0022_p022.jpg)
 
 བཟང་ལྟར་འབྲུ་རིན་ཆེན་དཀོར་མཛོད་དང་། རྡོ་ལེབ་ཟླ་བ་ལྟར་དཀར་བ་བཅལ་དུབཀྲམ་པའི་ར་བ་ཡངས་པ། ཕྱོགས་བཞིར་སྒོ་ཁང་དང་་་
 བསིལ་ཁང་དང་སྐས་ཀྱིས་མཛེས་པ། ཕོ་བྲང་གི་ལྟེབ་ནི་ལྷའི་ཁང་བཟང་ལྟར་མཛེས་ཤིང་ལྟ་བས་མི་ངོམ་པ་གསེར་གྱི་རྒྱ་ཕུབས་དང་བྲེ་འགྱོགས་་
@@ -283,7 +283,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 23
 
-![0023_p023.jpg](/img/user/assets/Bhutan_(16)/0023_p023.jpg)
+![0023_p023.jpg](/img/user/assets/Leiden_(16)/0023_p023.jpg)
 
 བཅུ་གཉིས་
 ༄༅། བཞིའི་བྱ་བ་རྣམས་ཀྱི་བྱ་མ་རྟའི་ཚོགས་དང་། རྒྱ་གར་རྒྱལ་པོ་ཨར་གྷ་པར་བྱ། རྒྱ་ནག་རྒྱལ་པོས་སཐམས་་་་
@@ -295,7 +295,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 24
 
-![0024_p024.jpg](/img/user/assets/Bhutan_(16)/0024_p024.jpg)
+![0024_p024.jpg](/img/user/assets/Leiden_(16)/0024_p024.jpg)
 
 སྣུམ་ལྷུན་གྲུབ་རྩེ་གནམ་ལ་ཟོབ་བཏགས་པ་ལྟ་བུ། གཞིས་ཀ་རིན་སྤངས་ལྷུན་ཆགས་པ་སོགས་ཀྱི་ཡོངས་སུ་བསྐོར་ཞིང་། ཕྱི་་་་་་
 ལྕགས་རིའི་ཚུལ་དུ་ཤར་མི་འགྱུར་ཞིང་དྭགས་ཀོང་གི་ཁ་གནོན་འོལ་དགའ་སྟག་རྩེ། ལྷོ་མི་འགྱུར་ཞིང་ཀློ་མོན་གྱི་ཁ་གནོན་དོ་བོ་རྫོང་།
@@ -306,7 +306,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 25
 
-![0025_p025.jpg](/img/user/assets/Bhutan_(16)/0025_p025.jpg)
+![0025_p025.jpg](/img/user/assets/Leiden_(16)/0025_p025.jpg)
 
 བཅུ་གསུམ་
 ༄༅། །སུམཚོགས་པ་ནི་ཆོས་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ཀྱི་སྐུ་བསོད་མངོན་པར་མཐོ་བའི་བཀའ་དྲིན་ལས་བར་བ་འདི་ལགས་་་
@@ -318,7 +318,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 26
 
-![0026_p026.jpg](/img/user/assets/Bhutan_(16)/0026_p026.jpg)
+![0026_p026.jpg](/img/user/assets/Leiden_(16)/0026_p026.jpg)
 
 པ་འདི་ལྟར་ལགས་ཤིང་། འཁོར་ལོས་བསྒྱུར་བའི་རྒྱལ་པོའི་ཁྲིམས་ཆེན་པོ་གསེར་གྱི་གཉའ་ཤིང་ལྟར་ལྕི་བ་ཉི་ཟླ་དབྱིངས་ནས་འཆར་བ་ལྟར་་
 ཉེ་རིང་མེད་པ། དབུས་ཀྱི་རི་བོ་མཆོག་རབ་ལྟར་གང་གིའང་བསྐྱོད་པ་མེད་པ་ཚུགས་པ་རྒྱ་མཚོ་ཆེན་པོ་གཏིང་དཔག་དཀའ་བ་ལྟར་གང་གིས་་་
@@ -329,7 +329,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 27
 
-![0027_p027.jpg](/img/user/assets/Bhutan_(16)/0027_p027.jpg)
+![0027_p027.jpg](/img/user/assets/Leiden_(16)/0027_p027.jpg)
 
 བཅུ་བཞི་
 ༄༅། །ཅན་གྱི་བཀའ་ཁྲིམས་མེད་པ་ལ་དཔགས། རང་ཤེས་རང་དྲན་ལ་སོང་བའི་བདེན་བརྫུན་མེད་པའི་ཆད་པ་ཆད་་་
@@ -341,7 +341,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 28
 
-![0028_p028.jpg](/img/user/assets/Bhutan_(16)/0028_p028.jpg)
+![0028_p028.jpg](/img/user/assets/Leiden_(16)/0028_p028.jpg)
 
 སྣེའུ་བདེ་ཡངས་ནས་བཞུགས་ཕུལ་བ་འཕྱར་ཏེ། ཁྲིམས་་་ཡིག་ཏུ་མིང་བཏགས། མགོ་རྩོམ་དུ་སྙན་ངག་གི་ཚིགས་བཅད་ཡོད་པའི་
 ཤོག་དྲིལ་གཅིག་དང་། ཡང་རྩོམ་གཞི་དེ་ཁ་ཡིན་པ་གཞིས་ཀ་སྣེའུའི་ཁྲིམས་ཡིག་ཡིན་ཁུལ་དུ་མཛད་པ་ཞིག་འདུག་པ་འདི་རྣམས་ཟིན་་་
@@ -352,7 +352,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 29
 
-![0029_p029.jpg](/img/user/assets/Bhutan_(16)/0029_p029.jpg)
+![0029_p029.jpg](/img/user/assets/Leiden_(16)/0029_p029.jpg)
 
 ནཅོ་ལྔ་
 ༄༅། །དེའི་ལུང་རྒྱབ་ཀྱི་ཁྲིམས་ཡིག་རྙིང་པོའི་ལོ་རྒྱུས་དང་གཏམ་རྒྱུད་ཞར་བྱུང་རྒྱུད་པ་ལས། སྔོན་གྱི་ཚལ་པའི་ཁྲིམས་་
@@ -364,7 +364,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 30
 
-![0030_p030.jpg](/img/user/assets/Bhutan_(16)/0030_p030.jpg)
+![0030_p030.jpg](/img/user/assets/Leiden_(16)/0030_p030.jpg)
 
 ནས་རྒྱལ་ཁྲིམས་བཅས་ཏེ། ལུས་ཀྱི་སྒོ་ནས་སྲོག་བཅད་པ་དང་། འདོད་པས་ལོག་པར་གཡེམ་པ་དང་། མ་བྱིན་པར་བླངས་པ་་་་
 རྣམས་ལ་དགོངས་ནས་སྟོང་དང་། བྱི་འཇལ་དང་། རྐུན་འཇལ་རྣམས་བཅས། ངག་དང་ཡིད་ཀྱི་སྒོ་ནས་རྫུན་དང་བརྣབ་སེམས་གནོད་
@@ -374,7 +374,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 31
 
-![0031_p031.jpg](/img/user/assets/Bhutan_(16)/0031_p031.jpg)
+![0031_p031.jpg](/img/user/assets/Leiden_(16)/0031_p031.jpg)
 
 བཅུ་དྲུག་
 ༄༅། །ཞིག་གིས་བརྟགས་པས་སེམས་ཅན་དུད་འགྲོ་གསུམ་པོ་ཁྲིམས་ལ་གནས་ཤིང་། མཐུན་གཤིབ་ལེགས་པ་དེའི་
@@ -386,7 +386,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 32
 
-![0032_p032.jpg](/img/user/assets/Bhutan_(16)/0032_p032.jpg)
+![0032_p032.jpg](/img/user/assets/Leiden_(16)/0032_p032.jpg)
 
 ལྟར་དཔོན་གྱི་བཀའ་གང་གནང་ལ་མངོན་པར་བསྟོད་པ། དགོངས་པ་ལེན་མཁས་པ། ཅིག་སུང་དཔོན་པོའི་བྱབ་སྒྲུབ་པ། དམ་པ་
 བཟང་བ། མི་དྲན་པ་མེད་པ། གང་དྲན་ལག་ཏུ་མི་ལེན་པ། དམ་པ་ཆེ་དགུ་ཝ་རབས་མཛད་བཟང་ལ་མིག་ལྟོས་བྱེད་པ། ཟོམ་་་་
@@ -397,7 +397,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 33
 
-![0033_p033.jpg](/img/user/assets/Bhutan_(16)/0033_p033.jpg)
+![0033_p033.jpg](/img/user/assets/Leiden_(16)/0033_p033.jpg)
 
 བཅུ་བདུན་ གོང་
 ༄༅། དཔོན་པོའི་ལ་གཡོག་འགོ་བ་དང་། འདི་ཕྱི་གང་རུང་ལརང་ཐོག་ཏུ་མྱོང་བར་འགྱུར་བས། ཁྲེལ་ཡོད་ངོ་་་
@@ -409,7 +409,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 34
 
-![0034_p034.jpg](/img/user/assets/Bhutan_(16)/0034_p034.jpg)
+![0034_p034.jpg](/img/user/assets/Leiden_(16)/0034_p034.jpg)
 
 གཡོག་དེ་ཡོད་པ་ཡིན་པས་རྫོང་དཔོན་རྣམས་ཀྱི་དཔོན་པོའི་ཞབས་ཏོག་གི་གཙོ་བོ་ཁྲིམས་དང་ངོ་ཚ་ལ་གཅེས་སྤྲས་སུ་འཛིན་དགོས་ཤིང་།
 དེང་སང་གི་ཁ་དཔེར་ཀྱང་། ཁྲིམས་ཁྲིམས་སར་གཅེས་པ་དང་། ཁྲིམས་མེད་གཙོ་བོས་བྱས་ན་འབོད་པ་སུ་མ་རྒྱག་ཟེར་བ་ལྟར། མི་་
@@ -420,7 +420,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 35
 
-![0035_p035.jpg](/img/user/assets/Bhutan_(16)/0035_p035.jpg)
+![0035_p035.jpg](/img/user/assets/Leiden_(16)/0035_p035.jpg)
 
 བཅུ་བདུན་ འོག་
 ༄༅། །ཁྲིམས་ཡིག་ཆེན་མོ་གཞིར་བཞག ཡུལ་ཁྲིམས་ལ་དཔེ་བླངས། རང་ཁྲིམས་པ་ཡིན་ལུགས་གའུ་ལེ་བསྒྲིགས་
@@ -432,7 +432,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 36
 
-![0036_p036.jpg](/img/user/assets/Bhutan_(16)/0036_p036.jpg)
+![0036_p036.jpg](/img/user/assets/Leiden_(16)/0036_p036.jpg)
 
 འདུམ་གྱི་ཞལ་ལྕེ། བཅུ་བཞི་པ་བྱི་བྱས་བྱི་རིན་གྱི་ཞལ་ལྕེ། བཅོ་ལྔ་པ་ནམ་ཕར་ཚུར་གྱི་ཞལ་ལྕེ། བཅུ་དྲུག་པ་ཀླ་སློ་མཐའ་འཁོབ་ཀྱི་་་་
 ཞལ་ལྕེ་དང་བཅས་བཅུ་དྲུག་ལས།།  །། ༈ དང་པོ་དཔའ་བོ་སྟག་གི་ཞལ་ལྕེ་ནི། དགྲ་འདུལ་བ་ལ་དགོས་ཏེ།
@@ -443,7 +443,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 37
 
-![0037_p037.jpg](/img/user/assets/Bhutan_(16)/0037_p037.jpg)
+![0037_p037.jpg](/img/user/assets/Leiden_(16)/0037_p037.jpg)
 
 བཅོ་བརྒྱད་
 ༄༅། །དང་གཡུལ་ཕན་ཚུན་སྙོམས་པའི་དགྲའམ། རང་རང་ཆོས་ཀྱི་སྒྲ་གང་ལའང་ཐོག་མ་ནས་་དགྲ་འདུལ་བའི་རྩོམ་པར་
@@ -455,7 +455,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 38
 
-![0038_p038.jpg](/img/user/assets/Bhutan_(16)/0038_p038.jpg)
+![0038_p038.jpg](/img/user/assets/Leiden_(16)/0038_p038.jpg)
 
 ནས་སོ་སོའི་བློ་ཁྲིད་པའི་ཁོག་ནས་རང་དོན་ལ་འཇུག་གང་ཐུབ་བྱས་ཏེ། འཇིག་རྟེན་གྱི་ཁ་དཔེར་འདྲ་བ་མཉམ་པེར་གྲུ་བཞིར་དྲོས་ཟེར་བ་ལྟར།
 ཁེ་ཉེན་བསིལ་ལ། བདེན་པའི་སྒྲུབ་བྱ་བཀོད། ཕ་རོལ་གྱི་གྲོས་རར་ཚང་ནས་འཆར་བསྟན། དེས་མ་ཉན་ན་མི་གཏི་ཐུག་གཅིག་དོན་ལ་་་་
@@ -466,7 +466,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 39
 
-![0039_p039.jpg](/img/user/assets/Bhutan_(16)/0039_p039.jpg)
+![0039_p039.jpg](/img/user/assets/Leiden_(16)/0039_p039.jpg)
 
 བཅུ་དགུ་
 ༄༅། །གཉིས་པ་རབ་ཏུ་སྦྱིན་དང་ཞེས་པའི་དོན་ནི། དགྲ་ལ་ནོར་རྫས་ཟད་ཟིང་གི་དངོས་པོ་སྦྱིན་ཏེ་གཏན་གྱི་དོན་་་་
@@ -478,7 +478,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 40
 
-![0040_p040.jpg](/img/user/assets/Bhutan_(16)/0040_p040.jpg)
+![0040_p040.jpg](/img/user/assets/Leiden_(16)/0040_p040.jpg)
 
 བསླུ་བ་ཡིན་ཞིང་དཔའ་བོ་དགྲ་ཐབས་ལ་མཁས་པ་ཞེས། རང་ཟོང་ཟད་ལ་མ་སོང་པའི་ཐབས་མཁས་ཀྱིས་བསླུ་ཞིང་། མནའ་ཟོས་་
 དུག་སྦྱོར་གྱིས་བསླུས་ན་ཁྲེལ་མེད་ངོ་ཚ་བོར་བའི་སོན་པོ་ལས། བག་ཡོད་ཚུལ་དང་ལྡན་པའི་ཤི་བ་མཆོག ཟེར་བ་ལྟར་ཕོ་རབ་ཀྱི་དགོས་་
@@ -489,7 +489,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 41
 
-![0041_p041.jpg](/img/user/assets/Bhutan_(16)/0041_p041.jpg)
+![0041_p041.jpg](/img/user/assets/Leiden_(16)/0041_p041.jpg)
 
 ཉི་ཤུ་
 ༄༅། །བྱེད། ཅེས་པ་ནི། གོང་གི་ཐབས་རྣམས་ཀྱི་མ་ཐུབ་ན། དཔུང་དང་དམག་གི་གཡུལ་བཤམས་ཏེ་་་་
@@ -501,7 +501,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 42
 
-![0042_p042.jpg](/img/user/assets/Bhutan_(16)/0042_p042.jpg)
+![0042_p042.jpg](/img/user/assets/Leiden_(16)/0042_p042.jpg)
 
 ཤེས་པ། འགྲོ་མཚམས་ལ་མཁས་པ་ཡིད་མི་ལྷོད་ཅིག་བློ་མི་འགོལ་བཚེར་ཕུད་སྟེང་དུ་ཉལ་བ་ལྟར། གཞན་གྱི་བློ་འདྲི་འབྲུ་ལ་མཁས་
 ཤིང་གང་ཟེར་ལ་མི་གཏོར་བ། མཚང་འབྲུ་འཇབ་ཤེས་པ་སོགས་ཡོན་ཏན་དེ་དག་དང་ལྡན་པའི་དཔའ་བོ་རྣམས་ཀྱི་གཡུལ་བཤམས་ཏེ་དྲག་་་
@@ -512,7 +512,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 43
 
-![0043_p043.jpg](/img/user/assets/Bhutan_(16)/0043_p043.jpg)
+![0043_p043.jpg](/img/user/assets/Leiden_(16)/0043_p043.jpg)
 
 ཉེར་གཅིག་
 ༄༅། །ཚང་པ་ལས་ལ་འཇུག་པ་གཉིས་བསྐོས། དམག་དཔུང་རྣམས་ལ་གཡས་རུ་གཡོན་རུ་སྦུས་རུ་གསུམ་བྱས།
@@ -524,7 +524,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 44
 
-![0044_p044.jpg](/img/user/assets/Bhutan_(16)/0044_p044.jpg)
+![0044_p044.jpg](/img/user/assets/Leiden_(16)/0044_p044.jpg)
 
 པ་དར། ཁེ་ཉེན་ལེགས་པར་བཤད། དགྲ་ལ་མཚོན་རྩི། གཉེན་ལ་སྐྱོང་ཁ་་་ཅིག་ཟེར་བའི་ལུང་དོན་ལྟར། དགྲ་ལ་ནུས་་་་་
 འདོན། རང་ཕྱོགས་སུ་ཞོད་འཇགས་དགོས་པ་སོགས་སྤངས་བླངས་གན་རྒྱར་བཀོད། དོན་འགག་ཐེལ་ལུང་གི་བསྡམས། གན་་
@@ -535,7 +535,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 45
 
-![0045_p045.jpg](/img/user/assets/Bhutan_(16)/0045_p045.jpg)
+![0045_p045.jpg](/img/user/assets/Leiden_(16)/0045_p045.jpg)
 
 ཉེར་གཉིས་
 ༄༅། །བྱེད་ཟེར་བ་དང་མི་འདྲ། རྒྱལ་ཁམས་ཀྱི་མི་ང་ཡིན་བསམ་པ་ཀུན་གྱི་འདིར་ཚོགས་པ་ཡིན། རང་ལ་་་་
@@ -547,7 +547,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 46
 
-![0046_p046.jpg](/img/user/assets/Bhutan_(16)/0046_p046.jpg)
+![0046_p046.jpg](/img/user/assets/Leiden_(16)/0046_p046.jpg)
 
 རྣམས་འཇོམས་ཚར་བ་བྱས་ནས། དམག་ལས་ཀྱི་འདེགས་ཁྲིམས་ཚུགས་མལ་སོ་རིམ་བཟན་ལེན་ཤོ་རྒྱག་སོགས་དགྲ་ཆ་གྲོགས་ཆའི་སྒར་
 སྐད་སློབ་སྟོན་མཐིལ་ཕྱིན་བྱེད་དགོས་འགྲིམས་དུས་འདེགས་དུང་གསུམ་གྱི་དང་པོ་ལ་མེ་ཁ་སོ་བ། གཉིས་པ་ལ་གུར་བསྡུས་པ། ་་་་
@@ -558,7 +558,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 47
 
-![0047_p047.jpg](/img/user/assets/Bhutan_(16)/0047_p047.jpg)
+![0047_p047.jpg](/img/user/assets/Leiden_(16)/0047_p047.jpg)
 
 ཉེར་གསུམ་
 ༄༅། །མཚོན་ཐོགས་ཀྱི་བསད་པ་ལ་ཆད་པ་འདབ་འཕར་དང་། སྙིང་གནོན་ལྡབ་འཇལ། རྨས་འཇལ་ཡད་དེ་་་
@@ -570,7 +570,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 48
 
-![0048_p048.jpg](/img/user/assets/Bhutan_(16)/0048_p048.jpg)
+![0048_p048.jpg](/img/user/assets/Leiden_(16)/0048_p048.jpg)
 
 གཡང་མོ་སྦབ་ལ་ཤོར་ན་ལྷུ་དྲུག་ལྤགས་ཁུ་མི་ཚད་ཟེར་བ་དེ་ཡོང་ཞིང་། དམག་རོང་རིགས་ལ་འགྲིལ་ན་ཁྱི་སྐྱེད། རི་དྭགས་པ་ཉིན་་་་
 གཅིག་ཙམ་གྱི་སྔོན་ལ་བཏང་ནས་ས་ཁྲུ། རྒན་མི་ཉམས་ཆེ་བས་རྫབ་ལྟོས་དང་པོར་དགྲ་འཚོལ། དེ་ནས་ཤ་འཚོལ། རྒྱ་རུ་དང་ཚོམ་ཁྱི་
@@ -581,7 +581,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 49
 
-![0049_p049.jpg](/img/user/assets/Bhutan_(16)/0049_p049.jpg)
+![0049_p049.jpg](/img/user/assets/Leiden_(16)/0049_p049.jpg)
 
 ཉེར་བཞི་
 ༄༅། །རི་དྭགས་རྒྱུག་པ་འཁྲུལ་བ་ནོར་ཞིང་། དགྲ་འགྲིམ་པའི་རྟའི་ཚེ་རྡུལ་ནི་གཅིག་ཏུ་ཕྱུར་སེ་གནམ་ལ་སྐྱ་ཕྱུར་འགྲོ་
@@ -593,7 +593,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 50
 
-![0050_p050.jpg](/img/user/assets/Bhutan_(16)/0050_p050.jpg)
+![0050_p050.jpg](/img/user/assets/Leiden_(16)/0050_p050.jpg)
 
 དཀར་ཞིང་སྐྱུ་འཆལ་བ་ཞིག་ཡོད། སྒར་མེ་ཁོ་ནའི་ས་ཡུལ་གཞན་ལས་བྱིངས། མེ་རབ་རིབ་མང་བ། མེ་དམར་ནག་རྩེག་རྩེག་ཡོང་
 བ་ཞིག་འདུག་ན་མིན་ཏེ་མ་འཁྲུལ་བར་བརྟག་དགོས་སོ་རི་འཛིན་གྱིས་དར་འཕྱོར། སེ་བས་སོ་སྒྲིམས་ཤིག་དེ་ནས་དགྲ་དང་གཡུལ་འཐབ་་་
@@ -604,7 +604,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 51
 
-![0051_p051.jpg](/img/user/assets/Bhutan_(16)/0051_p051.jpg)
+![0051_p051.jpg](/img/user/assets/Leiden_(16)/0051_p051.jpg)
 
 ཉེར་ལྔ་
 ༄༅། །འགྲིམས་ན་ཅབ་སེ་འགྲིམ། སྡོད་ན་ཐུམ་སེ་སྡོད་པའི་དཔུང་དེས། བྱང་རྟ་དམག་གི་དགྲ་ལ་སྤུངས་བ་
@@ -616,7 +616,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 52
 
-![0052_p052.jpg](/img/user/assets/Bhutan_(16)/0052_p052.jpg)
+![0052_p052.jpg](/img/user/assets/Leiden_(16)/0052_p052.jpg)
 
 ༈ གཉིས་པ་རྡར་མ་ཝའི་ནལ་ཆེ་ནི། བུམ་པའི་ཐ་སྙད་དུ་བྱས་ཏེ། དཔའ་བོས་རྫོང་མཁར་ལ་བསྐོར་ན། ཁ་འདོན་དང་འབོར་་
 ཉུག་མང་པོ་མི་བྱེད། གཞི་ཁྲེག་པར་བཟུང་། མདའ་རྡོའི་ལག་ཆ་དགོས་མེད་ལ་མི་རྒྱག  བཙན་མིག་དང་ཆུ་སྤེལ་ཟབ་ཕྱི་ནང་འདྲེས་
@@ -627,7 +627,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 53
 
-![0053_p053.jpg](/img/user/assets/Bhutan_(16)/0053_p053.jpg)
+![0053_p053.jpg](/img/user/assets/Leiden_(16)/0053_p053.jpg)
 
 ཉེར་དྲུག
 ༄༅།  སྙིལ་དོང་འཇོལ་བྱས་ལ་འཁྲིད་པ་དང་། མགོ་མི་ཡིན་ན་རྟ་ངན་ལ་སྒ་ཆག་མཇུག་ཕབ་དྲེད་ཡོབ་དྲེད་ཐུར་་་
@@ -639,7 +639,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 54
 
-![0054_p054.jpg](/img/user/assets/Bhutan_(16)/0054_p054.jpg)
+![0054_p054.jpg](/img/user/assets/Leiden_(16)/0054_p054.jpg)
 
 མི་བྱེད་པའོ།།  །། ༈ གསུམ་པ་རྒྱལ་མ་ལོང་གདོང་གི་ཞལ་ལྕེའམ། སྣེ་མོ་ལས་འཛིན་གྱི་ཞལ་ཆེ་ནི།
 རྒྱལ་པོའི་ལུང་གི་སྣེ་མོར་བཀོད་པ་རྣམས་ཀྱིས་རང་འདོད་ཁོ་ནའི་སྐྱོན་སྤངས། གཞུང་དོན་གཙོ་བོར་བྱས་ཏེ། སྡེ་སྲིད་ཀྱི་སྐུ་རིམ་དང་
@@ -650,7 +650,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 55
 
-![0055_p055.jpg](/img/user/assets/Bhutan_(16)/0055_p055.jpg)
+![0055_p055.jpg](/img/user/assets/Leiden_(16)/0055_p055.jpg)
 
 ཉེར་བདུན་
 ༄༅།  །གཉེར་འགོ་ལ་ཐེལ་གཏོང་མ་གཏོགས་རྫོང་དཔོན་གྱིས་གཏན་ཚིགས་མི་སྟེར། ཏི་སིའི་བཀའ་ཆེམས་ལས།
@@ -662,7 +662,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 56
 
-![0056_p056.jpg](/img/user/assets/Bhutan_(16)/0056_p056.jpg)
+![0056_p056.jpg](/img/user/assets/Leiden_(16)/0056_p056.jpg)
 
 སྱི་བརྡ་འདོད། ཁྲིམས་མཐུན་བྱམས་བརྩེས་སྐྱོང་བ། ཕྱི་ནང་གི་སར་ཁ་མཆུ་སྦྱོར་བ་དང་འཚོལ་བ་མི་བྱ། ཁྲིམས་སར་ཞུ་་་་་
 འབོད་བྱུང་བ་རྣམས་ལ་ལེ་བར་མི་འཇོག་པར་སྦྱངས་བཤད་ཕན་ཚུན་བློ་ཁ་རྫོགས་ཐབས་བྱེད་པ་མ་གཏོགས་དབང་སྟག་འཁུར་མི་བྱེད།
@@ -673,7 +673,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 57
 
-![0057_p057.jpg](/img/user/assets/Bhutan_(16)/0057_p057.jpg)
+![0057_p057.jpg](/img/user/assets/Leiden_(16)/0057_p057.jpg)
 
 ཉེར་བརྒྱད་
 ༄༅། །ཐབས་སུ་འགྲོ་བ་སྤྱིར་གྱིས་ཀྱང་བྱེད་དགོས་ཤིང་། ལྷག་པར་སྐྱིད་ཤོད་ཁུལ་འདི་ལ་ཁྲིམས་འཆོལ་བའི་ཁྱིམ་
@@ -685,7 +685,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 58
 
-![0058_p058.jpg](/img/user/assets/Bhutan_(16)/0058_p058.jpg)
+![0058_p058.jpg](/img/user/assets/Leiden_(16)/0058_p058.jpg)
 
 དང་། ཞུ་འགེགས་འོས་འགབ་ཁྲིམས་སར་ཕུལ་ནས་བཟློས་པ་ནང་འཇགས་སུ་ལྡུམས་འཇུག་གོ།།  །། ༈ ལྔ་པ་་་་་
 བཟུང་བཀྱིག་ཁྲིམས་རའི་ཞལ་ཆེ་ནི། ཁྲིམས་འགལ་གྱི་རིགས་ལ་ཐོག་མར་བཟུང་བཀྱིག་བབས་ཐོག་ཏུ་འདུག་ཅིང་། དམིགས་་་་
@@ -696,7 +696,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 59
 
-![0059_p059.jpg](/img/user/assets/Bhutan_(16)/0059_p059.jpg)
+![0059_p059.jpg](/img/user/assets/Leiden_(16)/0059_p059.jpg)
 
 ཉེར་དགུ་
 ༄༅།  །ཇི་ལྟར་རྐབས་དང་མཚུངས་པར་བྱེད་དོ།།  །། ༈ དྲུག་པ་ནག་ཆེན་ཁྲག་གཅོར་གྱི་ཞལ་་་
@@ -708,7 +708,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 60
 
-![0060_p060.jpg](/img/user/assets/Bhutan_(16)/0060_p060.jpg)
+![0060_p060.jpg](/img/user/assets/Leiden_(16)/0060_p060.jpg)
 
 པས་ལག་སློག་པ་ལ་ལྟོས་སོ་ཆུ་ལ་བསྐྱུར་བའོ།།  །། ༈ བདུན་པ་དྲན་འཛིན་ཆད་ལས་གྱི་ཞལ་ཆེ་ནི། ལུས་སྟེངས་
 སུ་རྩད་གཅོད་མི་ཐོབ་པའི་ཁྲིམས་དང་འགལ་བ་རྣམས་ལ། ཕྱིས་སྡོམ་སེམས་ཀྱི་དྲན་འཛིན་གཏོང་དགོས་ཏེ། ཉེས་ཆད་ཅེས་ཆད་པར་
@@ -719,7 +719,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 61
 
-![0061_p061.jpg](/img/user/assets/Bhutan_(16)/0061_p061.jpg)
+![0061_p061.jpg](/img/user/assets/Leiden_(16)/0061_p061.jpg)
 
 སུམ་ཅུ་
 ༄༅།  །ཆུང་བ་རྣམས་ལ། བྱུར་ཆགས་ཐུག་པའི་མི་བསད། ལྡོགས་ཧྲལ་གྱི་རྐུན་ཇག་སོགས་རིགས་དེས་མཚུངས་
@@ -731,7 +731,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 62
 
-![0062_p062.jpg](/img/user/assets/Bhutan_(16)/0062_p062.jpg)
+![0062_p062.jpg](/img/user/assets/Leiden_(16)/0062_p062.jpg)
 
 མཁར་རུའི་སེ་ཁལ་མཛད་པ་ཚོང་འདུས་ཀྱི་གསེར་རིན་ལག་ཡོད་གང་འདུག་ལ་ཆ་འཇོག་པ་སོགས་གནང་སྲོལ་འདུག་ཅིང་། རྨར་གསེར་་
 ཕྱེད་མ་ལ་སྤུས་གཙང་བ་བཞེས་པ་དང་། སྲོལ་ཉན་ཉོ་ཉན་གྱི་དངོས་པོ་ལ་རིན་རྒྱབ་གསུམ་ཚད་འབྲིང་སྐོར་དུ་ཕབ་པ་མཛད་སྲོལ་ཡོད་ཅིང་།
@@ -742,7 +742,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 63
 
-![0063_p063.jpg](/img/user/assets/Bhutan_(16)/0063_p063.jpg)
+![0063_p063.jpg](/img/user/assets/Leiden_(16)/0063_p063.jpg)
 
 སོ་གཅིག་
 ༄༅།  །དྲེལ་རྒྱབ་ལོངས་ལ་བཟང་ཞོ་གང་། བོང་བུ་ཕོ་རྒྱག་ཀྱི་རྒྱབ་ལོངས་ལ་འབྲིང་ཞོ། བོང་མོ་གླང་ཆུང་གི་
@@ -754,7 +754,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 64
 
-![0064_p064.jpg](/img/user/assets/Bhutan_(16)/0064_p064.jpg)
+![0064_p064.jpg](/img/user/assets/Leiden_(16)/0064_p064.jpg)
 
 འགྲེམས་སོགས་འགལ་ཆ་ལ་གཉེར་ཚང་གི་ཆད་འགྲོས་ཐང་ཐུང་རྣམས་ལ། མར་ཆད་ཀྱི་མར་ཞོ་རེ་ལ་དོ་སྐོར་གྱི་དབང་དུ་བྱས་པའི་་་་
 རྨར་དུ་ལེན་ན་ཁལ་དྲུག །མར་རྐྱང་དུ་ལེན་ན་མར་ཁལ་གསུམ་རྣམས་ཡིན་ཅིང་། དེང་སང་ཁ་གཏམ་ལ་མར་གསེར་གྱི་སྲང་ཟེར་བ་་
@@ -765,7 +765,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 65
 
-![0065_p065.jpg](/img/user/assets/Bhutan_(16)/0065_p065.jpg)
+![0065_p065.jpg](/img/user/assets/Leiden_(16)/0065_p065.jpg)
 
 སོ་གཉིས་
 ༄༅།  །ཤིང་། ལྷག་པར་སྐྱིད་ཤོད་འདི་ཕྱི་ཁྲིམས་འཆོལ་བའི་དོད་ཀྱང་སྒེར་གཞུང་གི་དོན་ལ་དབྱེ་བ་མེད་པར།
@@ -777,7 +777,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 66
 
-![0066_p066.jpg](/img/user/assets/Bhutan_(16)/0066_p066.jpg)
+![0066_p066.jpg](/img/user/assets/Leiden_(16)/0066_p066.jpg)
 
 གཏོངས་མེད་ཅིང་། མི་སྣ་ཀྱང་རྩེ་ནས་དམིགས་བསལ་བྱུང་ན་མ་གཏོགས་སུས་འཁྲིད་ལ་མི་འགྲོ། གཞུང་གི་འདོད་སྤྱངས་ལ་་་་
 བཏང་བ་རྣམས་ཀྱིས་སྔོན་གྱི་ཁྲིམས་ཡིག་རྙིང་པ་རྣམས་ལ། ཆད་པ་སྲང་དུ་མ་ལོངས་ན་གདན་སྟོན་གྱི་སྙད་མི་བྱེད། སྲང་དུ་ལོངས་
@@ -788,7 +788,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 67
 
-![0067_p067.jpg](/img/user/assets/Bhutan_(16)/0067_p067.jpg)
+![0067_p067.jpg](/img/user/assets/Leiden_(16)/0067_p067.jpg)
 
 སོ་གསུམ་
 ༄༅།  །རྒྱབ་ཞོ་རེ་ལེན་ཅིང་། བུ་ཚ་ལ་རྒྱབ་མི་ཐོབ། ཟ་རྒྱབ་ཆད་འདོད་སླེབས་པ་ནས་བཟུང་། བསྡུས་ཤོག་་
@@ -800,7 +800,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 68
 
-![0068_p068.jpg](/img/user/assets/Bhutan_(16)/0068_p068.jpg)
+![0068_p068.jpg](/img/user/assets/Leiden_(16)/0068_p068.jpg)
 
 མོ་ལ་བཞི་ཟུར། རྐང་གླ་ལ་བཞི་ཟུར། ཆད་ཤུལ་ལ་བཞི་ཟུར་རེ་རྣམས་མིང་སོ་སོར་བྱེད་པ་ཁྲིམས་སའི་ཆེ་བ་ཡིན་ཞིང་། ལག་ཡོད་་
 དེ་རྣམས་གྲིལ་བསད་གཞུང་དུ་ཆད་པ་གང་ཕུལ་བའི་ཤུལ་ལས་སྤྲོལ་པ་མི་ལེན། ཟ་རྒྱབ་ཆད་པའི་གཏིང་བསྐུལ་ཡིན་པས་བཞག་ཏུ་སོང་་་་
@@ -811,7 +811,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 69
 
-![0069_p069.jpg](/img/user/assets/Bhutan_(16)/0069_p069.jpg)
+![0069_p069.jpg](/img/user/assets/Leiden_(16)/0069_p069.jpg)
 
 སོ་བཞི་
 ༄༅།  །རྒན་པོ་རྒན་ཆག་ཡོད་པ་རྣམས་གྱི་རྒན་པོ་རང་གི་ཟ་མ་དུས་གསུམ་ལ་ཁ་ངོམས་གྲོད་འགྲངས་རྒྱུ་རི་ཟན་ཕོགས།
@@ -823,7 +823,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 70
 
-![0070_p070.jpg](/img/user/assets/Bhutan_(16)/0070_p070.jpg)
+![0070_p070.jpg](/img/user/assets/Leiden_(16)/0070_p070.jpg)
 
 སྡེར། མེ་ཁྱེམས་ལྕགས་སྐམས་ཟེར་མི་སྣའི་ཟ་སྒོ་དང་རྡོ་ཁུངས་སྒེར་གཞུང་གང་གི་ཁོངས་ལ་ཡོད་ཀྱང་། དཔོན་ཁུངས་དེ་ལ་བདུན་་
 ཚན་དགུ་ཚན་གང་འོས། མི་སྣ་ལ་རྡོ་རྒྱབ་གོམ་པ་རེའི་སར་ཐོན་གསུམ་གྱི་སྲང་རེར་སྣུམ་ལ་ཡང་ལྷ་ཡོལ་ལྷ་གདན་སྣུམ་སྣོད་ཀྱི་སླ་ང་་་་
@@ -834,7 +834,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 71
 
-![0071_p071.jpg](/img/user/assets/Bhutan_(16)/0071_p071.jpg)
+![0071_p071.jpg](/img/user/assets/Leiden_(16)/0071_p071.jpg)
 
 སོ་ལྔ་
 ༄༅།  །བཀྱིག་བྱས་པ་ལ་ཁོ་རའི་ལུས་འབྱར་གང་ཡོད་མི་སྣས་ལེན། དགེ་སྡོང་སྤྲོད་འཇལ་ལ་ཚོགས་ཆས་་་་་
@@ -846,7 +846,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 72
 
-![0072_p072.jpg](/img/user/assets/Bhutan_(16)/0072_p072.jpg)
+![0072_p072.jpg](/img/user/assets/Leiden_(16)/0072_p072.jpg)
 
 མ་དྲང་ཤིང་གི་ཚབ་ཏུ་སྤྲོད་པ་སོགས་སྲོལ་འཁྱུངས་དུ་འདུག་པ་ལྟར་བྱེད་ཁྲ་མ་དཀྱུས་མའི་ཞབས་འཇུག་ལ་སྤོམས་ཆེ་ཆུང་གི་འཚོར་ཆས་་་
 ཁྲ་བཀོད་ལྟར་དང་། རྐང་གླའི་དོད་དུ་སྤྲོད་འཇལ་ཡོད་ན་དེ་ལའི་ཁལ་ཤུལ་བྲེ་འབྲེང་སྤྲེད་མཁན་ནས་ལེན་ཅིང་། འདི་ལ་སྤྱི་ས་ནས་་་་
@@ -857,7 +857,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 73
 
-![0073_p073.jpg](/img/user/assets/Bhutan_(16)/0073_p073.jpg)
+![0073_p073.jpg](/img/user/assets/Leiden_(16)/0073_p073.jpg)
 
 སོ་དྲུག་
 ༄༅།  སྨྱུ་གུ་ཆུ་རིན་ལ་དྲུག་་་་་ཡིག་གིས་ཐོབ་ཡིན་ནོ།།  །། ༈ དགུ་པ་བསད་པ་སྟོང་གི་ཞལ་ཆེ་ནི།
@@ -869,7 +869,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 74
 
-![0074_p074.jpg](/img/user/assets/Bhutan_(16)/0074_p074.jpg)
+![0074_p074.jpg](/img/user/assets/Leiden_(16)/0074_p074.jpg)
 
 འདབས་ཀྱི་ཆུང་བ་ཡིན་ནོ། །ཚལ་པའི་ཁྲིམས་ཡིག་ཏུ། སྨྱོ་འབོག་བསམ་མེད་མེད་ཀྱིས་དུད་འགྲོ་ཡིས། བསད་དུང་རྐྱེན་གྱི་ཤི་
 ལ་སྟོང་མི་དགོས། །ལྷ་རྗེའི་དཔྱད་ཉེས་ཤི་ལ་བསམ་པ་ཡི། །ནད་ལ་ཕན་དུ་རེབ་མ་གཏོགས་པས། །དེ་ལ་ཉེས་པའི་སྐྱོན་མེད་བཀའ་དྲིན་
@@ -880,7 +880,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 75
 
-![0075_p075.jpg](/img/user/assets/Bhutan_(16)/0075_p075.jpg)
+![0075_p075.jpg](/img/user/assets/Leiden_(16)/0075_p075.jpg)
 
 སོ་བདུན་
 ༄༅།  །གདན་སོ་སྐྱེལ་བ་དང་། བྱི་ཕྲུག་ཡོད་ན་མགོ་ཐག་མཆོད་པར་རྒྱག་སྐྱེལ་དགོས་པ་སོགས་དེ་སྔའི་ཁྲ་མ་རྣམས་
@@ -892,7 +892,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 76
 
-![0076_p076.jpg](/img/user/assets/Bhutan_(16)/0076_p076.jpg)
+![0076_p076.jpg](/img/user/assets/Leiden_(16)/0076_p076.jpg)
 
 ལ༑ རོ་སྟོད་ནས་སྲང་འདི་ཆག་ཟེར་བ་ལ་དགོངས། དེང་སང་གྲ་ཕུད་ཀྱི་ཆག་གནང་པ་ཡིན་ཞིང་། དོན་དུ་སྟོང་ལ་སྤམས་ཆུང་ན་་་་
 ཕྱི་འདོམས་མིག་ལྟོས་ལ་གནོད་དོགས་པ་དང་། ཧ་ཅང་འགེལ་ཆེས་ལག་དམར་གྱི་མ་ཐེག་པར་ཡུལ་དོན་ཁ་ཆུ་ཧ་མེད་དུ་སོང་ན། མི་ཤི་་་
@@ -903,7 +903,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 77
 
-![0077_p077.jpg](/img/user/assets/Bhutan_(16)/0077_p077.jpg)
+![0077_p077.jpg](/img/user/assets/Leiden_(16)/0077_p077.jpg)
 
 སོ་བརྒྱད་
 ༄༅།  །འཇལ་དང་དམར་དང་ཁྲ་དང་ཟོང་དང་གསུམ། སྨར་ལ་སྨར་དང་སྨར་རི་ཟོང་གསུམ། ཁྲ་ལ་ཁྲི་དང་ཁྲ་་་་་
@@ -915,7 +915,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 78
 
-![0078_p078.jpg](/img/user/assets/Bhutan_(16)/0078_p078.jpg)
+![0078_p078.jpg](/img/user/assets/Leiden_(16)/0078_p078.jpg)
 
 ཆ་ཤ་ཆ། ར་ལུག་ཐད་ཀོང་། སྟོང་ནག་གི་སྐབས་ཟོང་དང་ཟོང་ནག་ལ་ཟོང་ཞེས་པ་ཤོག་བུ་རེ་རློམས། རྟ་བོང་རིས་མེད། འབྲུ་་་་
 བང་བསྲེས། ཐོང་གུག །ཟར་མ། གོས་གཟན་ཟད་རོ། སྣམ་བུ་ཟོང་བྱང་། ཟོང་ནག་ལ་འབྲུ་སྒྲུབ་བདུན་དགྲ་མདའ་དཀྱུས་་་་་་་
@@ -926,7 +926,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 79
 
-![0079_p079.jpg](/img/user/assets/Bhutan_(16)/0079_p079.jpg)
+![0079_p079.jpg](/img/user/assets/Leiden_(16)/0079_p079.jpg)
 
 ༄༅།  །བཏགས་པ་ཙམ་ལ་མིང་འདོགས་གྱི་སྒོ་ནས་ཐབས་ལ་མཁས་པར་མཛད་པ་ཡིན་འདུག་ཀྱང་། ཕྱིས་འཆལ་བ་
 ཤིན་ཏུ་ཟོང་བ་ལ་སྟོང་སྤྲོད་སྤྲོད་ཟེར་བ་ཆེ་དཔེར་བྱས་ནས། སྟོང་ལ་ཟིམ་ཟོལ་གང་འགྲོ་བྱེད་པ་ཞིག་བར་དུ་དར་འདུག་ཀྱང་། ཆོས་ཀྱི་རྒྱལ་པོ་་་
@@ -937,7 +937,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 80
 
-![0080_p080.jpg](/img/user/assets/Bhutan_(16)/0080_p080.jpg)
+![0080_p080.jpg](/img/user/assets/Leiden_(16)/0080_p080.jpg)
 
 ཚན། ཆོས་སྡེའི་མཁན་པོ་སོགས་ལ་སྟོང་སྲང་བཞི་བརྒྱ་དང་གསུམ་བརྒྱ། རབ་ཀྱི་ཐ་མ་ནི། གྲྭ་ཚང་གི་བླ་མ། དགེ་འདུན་བསྙེན་
 རྫོགས་པ། གཞུང་གི་དྲུང་འཁོར། གཡོག་བརྒྱ་ལོངས་ཀྱི་དཔོན་རིགས་ལ་སྟོང་སྲང་ཉིས་བརྒྱ། འབྲིང་གི་རབ་ནི་རྟ་པ་དྲུང་འཁོར་ལ་་་
@@ -948,7 +948,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 81
 
-![0081_p081.jpg](/img/user/assets/Bhutan_(16)/0081_p081.jpg)
+![0081_p081.jpg](/img/user/assets/Leiden_(16)/0081_p081.jpg)
 
 བཞི་བཅུ་
 ༄༅།  །མེུད་དང་། གཞུང་གི་གཉེར་ཚང་ཕྱག་གཡོག་ཤན་པ་རྣམས་ལ་སུམ་ཅུ། ཐ་མའི་འབྲིང་ནི་
@@ -960,7 +960,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 82
 
-![0082_p082.jpg](/img/user/assets/Bhutan_(16)/0082_p082.jpg)
+![0082_p082.jpg](/img/user/assets/Leiden_(16)/0082_p082.jpg)
 
 ཕྲུག་རྒྱག་ཕྱེ་ཁ་ཚན་མག་པའི་དམག་སློག་སོགས་མི་བདག་གི་སློ་ཁ་རྫོགས་ཐབས་ལ་རྙིང་གནོན་སྲང་ཆེན་སྟོང་སྲང་སྟེངས་ནས་གཉིས་སྐྱེས་ཀྱི་
 འཕར་དང་། སྟོང་ཟོང་ནག་རྦད་གཅོད་ནས་ཀྱང་ཆ་ཤས་པ་ལ་སྲང་ཞོ་འབེབས་པ་དང་། དགེ་བ་སྟོང་སྲང་རེའི་སར། དགེ་ནས་ཁལ་རེ།
@@ -971,7 +971,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 83
 
-![0083_p083.jpg](/img/user/assets/Bhutan_(16)/0083_p083.jpg)
+![0083_p083.jpg](/img/user/assets/Leiden_(16)/0083_p083.jpg)
 
 ཞེ་གཅིག་
 ༄༅།  །གླང་གཡག་བུང་གུའི་རྒྱབ་ནོན་ལ་ཞོ་འབྲིང་བ་དང་། ཆུང་རྒྱབ་བོང་མོ་གླང་ཆུང་ནོན་པར་ཞོ་ངན་པ་བྱེད་འདུག་པ།
@@ -983,7 +983,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 84
 
-![0084_p084.jpg](/img/user/assets/Bhutan_(16)/0084_p084.jpg)
+![0084_p084.jpg](/img/user/assets/Leiden_(16)/0084_p084.jpg)
 
 མི་འདི་ལ་འདི་ལྷ་བཞེས་པ་རྐྱེན་ལམ་ལ་བཏང་འདུག་པ། ཆད་མེད་གྲུབ་ན་དྲན་འཛིན་བསྔགས་སྦྱངས་སོང་གྲུབ་པ་དེ་ཡིན་ཞིང་། ད་རྒོས་
 དགེ་སྟོང་གི་འཇལ་སྤྲོད་ཀྱི་སྤང་བླངས་དགོས་རྒྱུར། འདས་སོར་སྟོང་ཐོན་གསུམ་སྲང་དྲུག་ཅུ། དགེ་ནས་ཁལ་དྲུག་ཅུ། དགེ་མར་་
@@ -994,7 +994,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 85
 
-![0085_p085.jpg](/img/user/assets/Bhutan_(16)/0085_p085.jpg)
+![0085_p085.jpg](/img/user/assets/Leiden_(16)/0085_p085.jpg)
 
 ཞེ་གཉིས་
 ༄༅།  །འཚོག་ཆས་ཇ་སྦྱོར་གསུམ་རྡོར་བཅས། དཀར་ཤ་ཁོག །ཚོགས་ལག །ཆང་ཚོད་བཞི། རྩམ་པ་་
@@ -1006,7 +1006,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 86
 
-![0086_p086.jpg](/img/user/assets/Bhutan_(16)/0086_p086.jpg)
+![0086_p086.jpg](/img/user/assets/Leiden_(16)/0086_p086.jpg)
 
 འགྲིགས་འགྲོ་ཞིང་། བཞི་ཞོ་ཕབ་རྗེས། རིན་རྒྱག་ལུང་པའི་དགུ་ཐག་གི་རིང་འཐུང་རང་བྱས་ཐུས་པ་དང་། ཡང་ཐོན་གསུམ་ནས་་
 སྨར་ནས་ཟོང་ལ་ཕབ་ན་འདབ་གཅོད། ཟོང་ནས་སྨར་ལ་སློབ་ན་ཕྱེད་ཆག །ཁྲ་མ་ཡས་མས་ནས་ཕུལ་དགུའི་གྲོས་རྩིས། ཡང་བརྒྱད་་་
@@ -1017,7 +1017,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 87
 
-![0087_p087.jpg](/img/user/assets/Bhutan_(16)/0087_p087.jpg)
+![0087_p087.jpg](/img/user/assets/Leiden_(16)/0087_p087.jpg)
 
 ཞེ་གསུམ་
 ༄༅།  །དགེ་བ་སོང་འདུག་ན། དགེ་བ་གང་གསུང་ཐོན་གསུམ་གྱི་ཐོག་ཏུ་འདབ་རྩིས་ནས་ཁྲ་ཞོར་ཕབ་པ་དང་དགེ་བ་་
@@ -1029,7 +1029,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 88
 
-![0088_p088.jpg](/img/user/assets/Bhutan_(16)/0088_p088.jpg)
+![0088_p088.jpg](/img/user/assets/Leiden_(16)/0088_p088.jpg)
 
 འདི་ནང་གི་སྤྲོད་འཇལ་སྒྲུབ་་བླངས་གཙང་མར་སྒྲུབ་པས། ད་ཕྱིན་ནས་ཁག་མེད་ཁ་འདོགས་ང་མིན་ཁོ་ཡིན་སོགས་སྙོག་མ་གཏིང་སློང་་
 བྱས་པར་ཤར་ན། གསེར་བསིལ་མའི་སྲང་གི་སྒྲུབ་ཞེད་སོ་སོའི་ཐེལ་བླངས། འདི་ཞིན་གྱི་མི་སྣ་འཁྱ་དཔངས་འདི་བཞིན་གྱི་ཐེལ་་་
@@ -1040,7 +1040,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 89
 
-![0089_p089.jpg](/img/user/assets/Bhutan_(16)/0089_p089.jpg)
+![0089_p089.jpg](/img/user/assets/Leiden_(16)/0089_p089.jpg)
 
 ཞེ་བཞི་
 ༄༅།  །ཁྲིམས་ས་གནས་དགོནས་པ་ཞུས་པའི་རིགས་ལ། དཔེར་ན་ལོ་ཟླ་ཚེས་ལ་ཁྲ་འཐུང་འདྲ་གཉིས་སུ་བཏང་དོན།
@@ -1052,7 +1052,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 90
 
-![0090_p090.jpg](/img/user/assets/Bhutan_(16)/0090_p090.jpg)
+![0090_p090.jpg](/img/user/assets/Leiden_(16)/0090_p090.jpg)
 
 ཚབ་ཆེ་ཆུང་གི་རྨས་འཇལ་རྒྱལ་ཡུལ་སྟེངས་ནས་གཅོད་ཅིང་། ཚིག་འདྲ་མི་འདྲའི་བཤགས་བདེན་མུས་འདི་སྐབས་ཀྱང་བྱེད་སྲོལ་མེད་ཅིང་སྤྲོད་
 འདཛུལ་ཞོ་ཐག་རྣམས་ནི་ཁྲིམས་སྲོལ་གོང་ཡོད་དགོས་པ་དང་། ཡང་ནང་ལྡུམ་གཙང་མའི་ཁྲིམས་སར་ཞུ་མ་ཐལ་བ་དང་། དགོངས་་་་
@@ -1063,7 +1063,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 91
 
-![0091_p091.jpg](/img/user/assets/Bhutan_(16)/0091_p091.jpg)
+![0091_p091.jpg](/img/user/assets/Leiden_(16)/0091_p091.jpg)
 
 ཞེ་ལྔ་
 ༄༅།  །ལུང་པའི་རྫོང་དཔོན་རྣམ་སྐུ་ཚབ། ཡང་ཕོ་བྲང་འོག་ཏུ་ཡིན་ན། ཕྱག་མཛོད་དུ་འབུལ་ཞིང་། ལག་་་་་་
@@ -1075,7 +1075,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 92
 
-![0092_p092.jpg](/img/user/assets/Bhutan_(16)/0092_p092.jpg)
+![0092_p092.jpg](/img/user/assets/Leiden_(16)/0092_p092.jpg)
 
 པའང་ཁྲིམས་ལུགས་སུ་འདུག་གོ།།  །། ༈ བཅུ་པ་རྨས་པ་ཁྲག་གི་ཞལ་ཆེ་ནི། སྔར་གྱི་ཁྲིམས་ཡིག་རྙིང་པར་རྣམས་་་་
 ལ༑ མི་རབ་ཁྲག་ལ་ཐིག་ཞོ་དང་། མི་ཐ་ཁྲག་ལ་ཐིག་སེ་ཟེར་བ་གའདུག་ནའང་། འདིར་མི་དོད་མི་སྙོམས་པའི་འབངས་ཀྱི་གྱེན་ལོག་ལྟ་་་་
@@ -1086,7 +1086,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 93
 
-![0093_p093.jpg](/img/user/assets/Bhutan_(16)/0093_p093.jpg)
+![0093_p093.jpg](/img/user/assets/Leiden_(16)/0093_p093.jpg)
 
 ཞེ་དྲུག་
 ༄༅།  །རྨ་གསོལ་མ་གཏོགས་འཇལ་སྤྲོད་མི་དགོས། ཕན་ཚུན་གྱི་འདོན་སྔོན་མ་ལ་གྲི་ཆད་འོས་རིགས་དང་མ་སྤམ་གྱི
@@ -1098,7 +1098,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 94
 
-![0094_p094.jpg](/img/user/assets/Bhutan_(16)/0094_p094.jpg)
+![0094_p094.jpg](/img/user/assets/Leiden_(16)/0094_p094.jpg)
 
 ཟ་ཕ་འབྲིང་ལ་ཆ་བཞག་པའི་རྨས་ལ་ཉེས་པ་ཆེ་ཆུང་བདེན་བརྫུན་གཤེར་བའི་གཏན་ཚིག་གཞིར་འཇོག་པ་སོགས་གོང་གི་གཞི་ནས་བླངས་པའི་ད་
 ལྟ་ཡོངས་སུ་གྲགས་པའི་མེ་ཞོ་གྲས་སྲང་ཞེས་མོད་དུ་རྒྱབ་ལ་ཐོན་གསུམ་གྱིས་ཡུལ་ཞོ་རེ་དང་། དྲས་པ་ལ་ཡང་ཐུག་གསུམ་གྱི་སྲང་རེ་བྱེད་པ་་
@@ -1109,7 +1109,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 95
 
-![0095_p095.jpg](/img/user/assets/Bhutan_(16)/0095_p095.jpg)
+![0095_p095.jpg](/img/user/assets/Leiden_(16)/0095_p095.jpg)
 
 ཞེ་བདུན་
 ༄༅།  །ཡ་སྤེན་ཤུགས་སོགས་སྐབས་དང་བསྟུན་པ་བྱེད། དེ་ཁའི་ཐོག་ནས་བདེན་རྨས་པོ་ལ་མེད་ན་རྨས་པོས་བདེན་་
@@ -1121,7 +1121,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 96
 
-![0096_p096.jpg](/img/user/assets/Bhutan_(16)/0096_p096.jpg)
+![0096_p096.jpg](/img/user/assets/Leiden_(16)/0096_p096.jpg)
 
 བྱེད་དགོས་འཇལ་སྤྱོད་ཀྱི་སྐབས་རྨས་གསོས་དང་ལྷ་རྗེའི་ལྟོ་རྫོང་སོགས་རྨས་འཇལ་ཐོག་ཏུ་འདབ་ཆོད་དུ་རྩི་བ་སོགས་ཁྲིམས་རྒྱུན་དུ་འདུག་པ་
 དང་། སོ་ཅག་སྐྲ་ཕྱི་བ་རྣམས་ལ་དང་པོའི་ཁྲིམས་ཡིག་རྙིང་པ་རྣམས་ན། སོ་རྟ་སྐྲ་ལུགས་ཟེར་བ་འདུག་ཀྱང་། དེ་ཕྱིས་མི་དར་ཞིང་།
@@ -1132,7 +1132,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 97
 
-![0097_p097.jpg](/img/user/assets/Bhutan_(16)/0097_p097.jpg)
+![0097_p097.jpg](/img/user/assets/Leiden_(16)/0097_p097.jpg)
 
 ཞེ་བརྒྱད་
 ༄༅།  །གི་དྲངས་པོར་གནས་པ་ལ། སྣ་ཡོད་པས་དཔེ་བདེར་བཞག་ནས་མནའ་ཞེས་ཀྱང་ཡིན་ཞིང་། ངོ་བོ་ཡེ་ཤེས་ཀྱི་
@@ -1144,7 +1144,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 98
 
-![0098_p098.jpg](/img/user/assets/Bhutan_(16)/0098_p098.jpg)
+![0098_p098.jpg](/img/user/assets/Leiden_(16)/0098_p098.jpg)
 
 ཉེས་པ་སེལ་ནུས་པས་མནའ་མི་བསྡུ། ཁྱི་མོ་ཚང་མ་ནི་སྐྱེ་དམན་རང་གི་མཛའ་བོ་དང་ཕྲུ་གུའི་ཆེད་དུ་མནའ་མིར་མི་བསྡུ། གཡུ་ཆུང་་
 གྲུ་དམར་ནི་བྱིས་པ་རྣམས་དབྱེ་བ་མ་ཕྱེ་བ་དང་། གླེན་ལྐུག་རྣམས་ཀྱིས་མནའི་ཉེས་པ་དང་སྤང་བླངས་མི་གོ་བས་མནའ་མིར་མི་བསྡུ། མནའ་
@@ -1155,7 +1155,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 99
 
-![0099_p099.jpg](/img/user/assets/Bhutan_(16)/0099_p099.jpg)
+![0099_p099.jpg](/img/user/assets/Leiden_(16)/0099_p099.jpg)
 
 ཞེ་དགུ་
 ༄༅།  །མི་ནི་འགྱུ་བ་དང་སེམས་འདི་ལ་གང་ཡང་འཆར་བས། དཔེར་ན་དཔེ་རིགས་མཚོན་པའི་ཚིག་ཟུར་འགྲིས་ཀྱིས་་
@@ -1167,7 +1167,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 100
 
-![0100_p100.jpg](/img/user/assets/Bhutan_(16)/0100_p100.jpg)
+![0100_p100.jpg](/img/user/assets/Leiden_(16)/0100_p100.jpg)
 
 ཁོ་རང་གི་བདེན་པའི་ངོ་བོ་ལ་སེམས་རྩེ་གཅིག་ཏུ་བཏད་ནས། ཡེ་ཤེས་ཀྱི་ལྷ་ལ་བདེན་པ་བདར་ན། ལྷ་དཔངས་དུ་ཡེ་ཤེས་པ་བཞུགས་
 པ་གཟིགས་པས་བཞུགས་པ་གའཟིགས་པས་བའདེན་ཐོག་དུ་ཐོན་པ་ཡོད་ནའང་མི་བྱིངས་ཀྱི་རྣམ་རྟོག་མང་བ་དང་རྣམ་རྟོག་གི་རྗེས་སུ་འཇུག་་
@@ -1178,7 +1178,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 101
 
-![0101_p101.jpg](/img/user/assets/Bhutan_(16)/0101_p101.jpg)
+![0101_p101.jpg](/img/user/assets/Leiden_(16)/0101_p101.jpg)
 
 ལྔ་བཅུ་
 ༄༅།  །ལྕགས་གླང་དུ་སྣུམ་གཙང་མ་ལག་མགོ་ནུབ་ཙམ། རྡེའུ་དཀར་ནག་ཞོ་གཏེག་གི་ཡང་ལྕི་མེད་པའི་ཐེབས་
@@ -1190,7 +1190,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 102
 
-![0102_p102.jpg](/img/user/assets/Bhutan_(16)/0102_p102.jpg)
+![0102_p102.jpg](/img/user/assets/Leiden_(16)/0102_p102.jpg)
 
 མི་སྣ་བར་པས་རི་ཚིག་ཚར་གསུམ་གྱི་བར་ལ་རྣ་བར་སོན་པ་དང་། སེམས་ཡུལ་དུ་ངེས་པ་བསྒྲགས་པ་དང་འབྲུ་རི་གཉིས་ནས་སྦྱངས་་་་
 བཤད་གཏོང་ཞིང་། དེ་ལ་ཐོན་པ་ཐག་ཆོད་བྱུང་ན་མནའ་པ་མགོན་ཁང་གཞིས་བདག་གཉན་པ། རྒྱལ་པོའི་དཀོར་ཁང་སོགས་སུ་འཁྲིད་
@@ -1201,7 +1201,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 103
 
-![0103_p103.jpg](/img/user/assets/Bhutan_(16)/0103_p103.jpg)
+![0103_p103.jpg](/img/user/assets/Leiden_(16)/0103_p103.jpg)
 
 ང་གཅིག་
 ༄༅།  །འགལ་བར་སོང་ན་འདི་ནང་གི་ཆད་པ་རྣམས་མངོན་གསུམ་ད་ཕོབ་ཅེས་རི་ཚིག་མགོ་ཐོག་ཏུ་ལེན། ཡང་རྡོ་བྱེད་
@@ -1213,7 +1213,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 104
 
-![0104_p104.jpg](/img/user/assets/Bhutan_(16)/0104_p104.jpg)
+![0104_p104.jpg](/img/user/assets/Leiden_(16)/0104_p104.jpg)
 
 གསུམ་མམ་བདུན་གྱི་བར་ལ་ལག་པ་གཉིས་དུ་ཕར་བསྒྲིལ་ཚུར་བསྒྲིལ་བྱས་ནས་སྒོམ་ཚད་ཀྱི་སར་འཇོག་རྡོ་མེ་ཐུབ་མིན་ངེས་ཐེངས་གསུམ་གྱི་་
 བར་དུ་མེད་ཀྱིལ་དུ་འཐོར་ན་བདེན་པ་ཡོད་པ་ལེན་མི་དགོས་ཀྱང་ཟར། དེ་ནས་ལག་པར་རས་ཀྱི་བསྡུམ་ཁྲིམས་པའི་མི་སྣའི་དམ་ཕྲུག་གི་བསྣན་་་
@@ -1224,7 +1224,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 105
 
-![0105_p105.jpg](/img/user/assets/Bhutan_(16)/0105_p105.jpg)
+![0105_p105.jpg](/img/user/assets/Leiden_(16)/0105_p105.jpg)
 
 ང་གཉིས་
 ༄༅།  །དང་འདྲ་བ་ལ། ཚིག་གི་དོན་ཆ་བསྒྱུར་བའི་གོང་བཞོན་ཞིབ་པར་བྱས་ནས། གཞུང་གི་གོང་མཚམས་ཀྱི་དག་
@@ -1236,7 +1236,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 106
 
-![0106_p106.jpg](/img/user/assets/Bhutan_(16)/0106_p106.jpg)
+![0106_p106.jpg](/img/user/assets/Leiden_(16)/0106_p106.jpg)
 
 སོགས་མི་རུང་བ་ཡོང་ཞིང་། ལག་པ་སྐྱོན་བྱུང་ནས་རྡེའུ་དཀར་པོ་ལོན་ན། ཐོན་མི་ཐོན་ཆ་ཕྱེད་དུ་ཡོད་པའི་བརྟགས་ཡིན་ཀྱང་། དེང་་་
 སང་དེས་སྣུམ་ཐོན་པའི་གྲལ་དུ་་་་་་་མཛད་ཀྱི་འདུག་པས་དེ་ཁ་བཞིན་བྱེད་དགོས་ཡང་རྡེའུ་མེད་པར་སྣུམ་འཛུམ་མོས་དཀྲུགས་ནས་སྐྱོན་བྱུང་མ་
@@ -1247,7 +1247,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 107
 
-![0107_p107.jpg](/img/user/assets/Bhutan_(16)/0107_p107.jpg)
+![0107_p107.jpg](/img/user/assets/Leiden_(16)/0107_p107.jpg)
 
 ང་གསུམ་
 ༄༅།  །འཇལ་འཇལ་ངོ་དགུ། ཐག་རིང་མི་རིང་ལོག་གིས་བརྐུས་པ་ལ་སྐྱེ་འཁྲིད་ཚབ་གསུམ། འདི་རྣམས་ལ་་་་་་
@@ -1259,7 +1259,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 108
 
-![0108_p108.jpg](/img/user/assets/Bhutan_(16)/0108_p108.jpg)
+![0108_p108.jpg](/img/user/assets/Leiden_(16)/0108_p108.jpg)
 
 སྙེད་དོ་ཟེར་བ་ལ་ཟོག་གི་གསུམ་ཟུར་བརྔན་པར་སྤྲོད། སྙེད་པ་ཟོན་མེད་དུ་བཞག་ནས་རྟ་བོང་ལ་སྒ་མ་རྒྱག །རྭ་ལུག་གི་སྤུ་མ་དྲེག་པ་་
 ལ་ལོ་འཁོར་ནས་སྤྲད་པ་དངོས་པོའི་བཞི་ཟུར་སྤྲོད། གཞན་མ་སྙེད་པ་དཀྱུས་མ་རྣམས་ལ་བརྔན་པ་སྟེར་ལུགས་སྟོ་སྟེར་ཆང་སྟེར་ཁྲིམས་དང་
@@ -1270,7 +1270,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 109
 
-![0109_p109.jpg](/img/user/assets/Bhutan_(16)/0109_p109.jpg)
+![0109_p109.jpg](/img/user/assets/Leiden_(16)/0109_p109.jpg)
 
 ང་བཞི་
 ༄༅།  །སྐྱིད་སྡུག་བསྲེས་པ་གང་ལ་ཡང་ཐོག་མའི་ཁ་དན་གྱི་རིགས་དང་འབྲལ་དགོས་པའི་རིགས་རྐྱེན་ཁའི་རྩ་བ་ནས་ཞིབ་་
@@ -1282,7 +1282,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 110
 
-![0110_p110.jpg](/img/user/assets/Bhutan_(16)/0110_p110.jpg)
+![0110_p110.jpg](/img/user/assets/Leiden_(16)/0110_p110.jpg)
 
 ཆེ་ཆུང་ལ་དཔག་པ་བྱེད། ཟད་ཐུད་མོ་རང་བསྡོད་རིང་ཕ་མིང་གི་སྦྱིན་པའི་གོས་གཟན་ཟད་གུན་སྒྲིགས་ཕོ་ནོར་མོ་ནོར་ཞེས་བདེན་པ་ལ་་་
 མ་ལྟོས་པའི་ཕ་མིང་གིས་བརྟགས་པ་མོ་ལ་འཇག་པ་དང་། ཁྱོ་ཕོས་བཏགས་པ་ཁྱོ་ཕོ་རང་ལ་སྤྲོད་པ་ཀུན་ལ་བྱེད་ཅིང་། མོ་བདེན་པ་ཆེ་བ་
@@ -1293,7 +1293,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 111
 
-![0111_p111.jpg](/img/user/assets/Bhutan_(16)/0111_p111.jpg)
+![0111_p111.jpg](/img/user/assets/Leiden_(16)/0111_p111.jpg)
 
 ང་ལྔ་
 ༄༅།  །སྣོམས་པར་བྱས། ཕ་མ་དང་རྒན་མགོར་འདེམས་ཁ་གཏོང་། བཞན་མ་ཤོ་རྒྱག་འདམ་རེ་སོགས་གང་་་་།
@@ -1305,7 +1305,7 @@ Slob dpon Padma La (ed.). 1979. *Bod kyi khrims yig chen mo zhal lce bcu drug*. 
 
 ### Page 112
 
-![0112_p112.jpg](/img/user/assets/Bhutan_(16)/0112_p112.jpg)
+![0112_p112.jpg](/img/user/assets/Leiden_(16)/0112_p112.jpg)
 
 པའི་ཡན་ལག་གི་བྲན་བྱས་ནས་ཡུལ་གཞན་དུ་སྤྱུགས་ཞེས་འདུག་ཀྱང་། འདི་ནི་བླ་མ་དཔོན་པོ་སོགས་ཀྱི་བཙུན་མོ་ལ་མི་འོས་པའི་བྱི་བྱས་་་
 པའི་དེའི་ནག་ཏུ་གཅོད་ཟེར་བའི་ཚིག་དོན་ཡིན་ཞིང་གཞན་མ་རང་བཞིན་གཅོད་རྒྱུ་བྱེད་པ་ལ་ཁྲིམས་ཡིག་རྙིང་པ་འགའ་ཞིག་ཏུ། རླིག་ཞོ་་་
