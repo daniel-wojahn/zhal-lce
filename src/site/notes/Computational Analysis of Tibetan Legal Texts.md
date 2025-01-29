@@ -15,9 +15,9 @@ Various computational methods, including Word Mover’s Distance (WMD), syntacti
 4. **Word Embeddings with MiLMo:** The Word2Vec model from [MiLMo](https://huggingface.co/CMLI-NLP/MiLMo) was used for WMD analysis. Word embeddings means the mapping of words or syllables into a numerical space where distances reflect semantic similarity. This technique allows comparison based on meaning rather than just structural alignment, offering insights beyond syntax and vocabulary overlap.
 5. **Data Processing:** The POS-tagged output formed the basis for constructing heat maps to compare different texts at lexical, syntactic, and semantic levels.
 
-### 3. Text Corpus
+## 3. Text Corpus
 - [[Witnesses/Bailey 16\|Bailey 16]]: as our working hypothesis, we consider this manuscript the oldest in the corpus 
-- [[Witnesses/Bhutan 16\|Bhutan 16]], [[assets/Dolanji_(16)\|Dolanji_(16)]], and [[Witnesses/Leiden (16)\|Leiden (16)]]  all reflect regional variations in textual transmission and are valuable resources for understanding regional adaptations of the legal code.
+- [[Witnesses/Bhutan 16\|Bhutan 16]], [[Witnesses/Dolanji (16)\|Dolanji (16)]], and [[Witnesses/Leiden (16)\|Leiden (16)]]  all reflect regional variations in textual transmission and are valuable resources for understanding regional adaptations of the legal code.
 - <u>Japan13</u>: This manuscript of the *zhal lce bcu gsum* (detailed in the [Toyo Bunko repository](https://toyo-bunko.repo.nii.ac.jp/records/7448)<u></u>), was included to shed light on the textual evolution of the *zhal lce* genre. 
 
 > [!info]
