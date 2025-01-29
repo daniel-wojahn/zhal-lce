@@ -83,7 +83,6 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
   - The Bhutan and Dolanji versions tend to have the **highest Jaccard similarity scores**, further supporting their close textual relationship.
 
 
-
 ## 5. Final Data Processing Pipeline
 
 ```mermaid
@@ -105,3 +104,11 @@ D -->|Semantic Distance| H["Word Mover's Distance (WMD)"]
 
 H -->|Syllable-Level| J["Word2Vec Model (MiLMo)"]
 ```
+---
+##### Secondary reading:
+
+Meelen, M., Roux, É., & Hill, N. (2021). Optimisation of the Largest Annotated Tibetan Corpus Combining Rule-based, Memory-based, and Deep-learning Methods. _ACM Transactions on Asian and Low-Resource Language Information Processing_, _20_(1), 1–11. https://doi.org/10.1145/3409488
+
+J. Deng, H. Shi, X. Yu, W. Bao, Y. Sun and X. Zhao. (2023), "MiLMo:Minority Multilingual Pre-Trained Language Model," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 329–334. https://doi.org/10.1109/SMC53992.2023.10393961
+
+Wang, J., & Dong, Y. (2020). Measurement of Text Similarity: A Survey. _Information (Basel)_, _11_(9), 421-. https://doi.org/10.3390/info11090421
