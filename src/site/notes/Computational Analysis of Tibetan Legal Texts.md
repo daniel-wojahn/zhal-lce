@@ -107,8 +107,10 @@ H -->|Syllable-Level| J["Word2Vec Model (MiLMo)"]
 ---
 ##### Secondary reading:
 
+Griffiths, R. (2024). “Handwritten Text Recognition (HTR) for Tibetan Manuscripts in Cursive Script”. *Revue d’Etudes Tibétaines*, 72, 43–51. https://doi.org/10.1553/TibSchol_ERC_HTR
+
 Meelen, M., Roux, É., & Hill, N. (2021). Optimisation of the Largest Annotated Tibetan Corpus Combining Rule-based, Memory-based, and Deep-learning Methods. _ACM Transactions on Asian and Low-Resource Language Information Processing_, _20_(1), 1–11. https://doi.org/10.1145/3409488
 
-J. Deng, H. Shi, X. Yu, W. Bao, Y. Sun and X. Zhao. (2023), "MiLMo:Minority Multilingual Pre-Trained Language Model," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 329–334. https://doi.org/10.1109/SMC53992.2023.10393961
+J. Deng, H. Shi, X. Yu, W. Bao, Y. Sun and X. Zhao. (2023). "MiLMo:Minority Multilingual Pre-Trained Language Model," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 329–334. https://doi.org/10.1109/SMC53992.2023.10393961
 
 Wang, J., & Dong, Y. (2020). Measurement of Text Similarity: A Survey. _Information (Basel)_, _11_(9), 421-. https://doi.org/10.3390/info11090421
