@@ -43,7 +43,7 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
 ![Word Mover's Distance Heatmap](/img/user/assets/heatmap_wmd.png)
 
 ##### Interpretation:
-  - **The Bhutan, Dolanji, and Leiden versions **exhibit consistently low WMD values when compared to each other**, indicating a **high degree of semantic similarity** across these versions. This suggests that, despite minor lexical variations, their overall meaning and word usage remain closely aligned.
+  - **The Bhutan, Dolanji, and Leiden versions exhibit consistently low WMD values when compared to each other**, indicating a **high degree of semantic similarity** across these versions. This suggests that, despite minor lexical variations, their overall meaning and word usage remain closely aligned.
   - Bailey 16 consistently shows slightly higher WMD values when compared to the Bhutan and Dolanji versions, indicating some lexical or semantic drift in the manuscript tradition.
   - The **highest WMD values appear in chapters 6, 9, and 12 across multiple comparisons**, suggesting that it varies significantly in wording across the versions.
 
