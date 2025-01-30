@@ -43,7 +43,7 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
 ![Word Mover's Distance Heatmap](/img/user/assets/heatmap_wmd.png)
 
 ##### Interpretation:
-  - The Bhutan, Dolanji, and Leiden versions exhibit relatively small WMD values when compared to each other, suggesting a high degree of semantic similarity.
+  - **The Bhutan, Dolanji, and Leiden versions **exhibit consistently low WMD values when compared to each other**, indicating a **high degree of semantic similarity** across these versions. This suggests that, despite minor lexical variations, their overall meaning and word usage remain closely aligned.
   - Bailey 16 consistently shows slightly higher WMD values when compared to the Bhutan and Dolanji versions, indicating some lexical or semantic drift in the manuscript tradition.
   - The **highest WMD values appear in chapters 6, 9, and 12 across multiple comparisons**, suggesting that it varies significantly in wording across the versions.
 
@@ -55,9 +55,9 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
 ![Longest Common Subsequence Heatmap](/img/user/assets/heatmap_lcs.png)
 
 ##### Interpretation:
-  - Bhutan vs. Dolanji and Dolanji vs. Leiden show particularly high LCS values, confirming that these versions retain long stretches of identical text.
-  - The lowest LCS values (beyond Japan13’s missing sections) are found in certain later chapters when comparing Bailey 16 with the others, possibly indicating editorial changes over time.
-  - **Chapters 8 and 10 exhibit very high LCS values**, meaning that these sections are particularly stable across all versions, supporting the idea that they might have been copied with minimal alteration.
+  - **Bhutan vs. Dolanji and Dolanji vs. Leiden show particularly high LCS values, confirming strong textual alignment** and suggesting that these versions preserve long, uninterrupted stretches of text with minimal alterations.
+- **Bailey 16 shows notably lower LCS values in certain later chapters when compared with other versions**, implying structural or editorial divergence. However, this is not uniformly true for all later chapters, suggesting selective modifications rather than a continuous trend of increasing divergence over time.
+- **Chapters 8, 10, and 12 exhibit particularly high LCS values**, indicating that these sections remained stable across all versions. This suggests they may have been copied with fewer changes, potentially reflecting core material that was transmitted with greater fidelity.
 
 
 ### 4.3. Syntactic Distance (POS-Level)
@@ -79,7 +79,7 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
 
 ##### Interpretation:
   - Weighted Jaccard similarity aligns well with the LCS findings, showing **high lexical overlap in chapters 8-10**.
-  - However, chapter 6 has a noticeably lower Jaccard similarity than its corresponding LCS value, suggesting that while the structure is preserved, there are enough small substitutions or variations in vocabulary to decrease overall lexical similarity.
+  - However, **chapter 6 has a noticeably lower Jaccard similarity than its corresponding LCS value**, suggesting that while the structure is preserved, there are enough small substitutions or variations in vocabulary to decrease overall lexical similarity.
   - The Bhutan and Dolanji versions tend to have the **highest Jaccard similarity scores**, further supporting their close textual relationship.
 
 
