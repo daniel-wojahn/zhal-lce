@@ -24,7 +24,14 @@ Sections: 1) — 13 leaves; 2) – 20 leaves; 3) – 18 leaves; 4) – 20 leaves
 This manuscript seems to be the oldest textual witness of the *zhal lce bcu drug*. There is a date of composition (*chu lug hor zla bcu pa*) which seems to indicate the year 1583. However, neither the complete text has survived, nor does it appear to be a monolithic or 'single-cast' manuscript. The page numbers, probably added later, indicate that the first three folios (1a-3b) are missing, as the first page of the manuscript (hidden under the silk cover) is labelled page 4. Moreover, 14 pages previously left blank due to the original manuscript's binding have been written on in a different script (*tshugs ma ‘khyug*) (16a–16b3; 35b–36a; 53b–54a; 73b–74a; 84b–86b). Another hand also added the conversion table for compensation payments (81b–84a).
 
 There are several indications that this manuscript must have been a student or research copy. While some manuscripts, such as [[Witnesses/Bell 16\|Bell 16]], show heavy signs of use and were produced in a handy travel size, Bailey (16) — by its size alone (36,5cm x 4,5cm) — is too impractical for quick consultation. 
-There are also three glued bookmarks: \[fol. 19b], which reads *zhal lce bcu drug*, and marks the beginning of the legal text; \[fol. 29b], which reads *drug pa bzung khrag sbyor* \[?], and marks the beginning of the sixth paragraph); and \[fol. 46b], *rkun khrims* \[?], marking the beginning of either the eleventh or twelfth paragraph.
+
+There are also three glued bookmarks:
+* \[fol. 19b] reads *zhal lce bcu drug*, and marks the beginning of the actual pronouncements
+* \[fol. 29b] reads *drug pa rku jag skor* and marks the beginning of the sixth paragraph
+* \[fol. 46b], *rkun khrims*, marking the beginning of the twelfth paragraph.
+
+##### Interpretation
+The earmark *དྲུག་པ་རྐུ་ཇག་སྐོར་* (theft/robbery) doesn’t match the actual chapter title, *དྲུག་པ་ནག་ཅན་ཁྲག་ཅོར་གྱི་ཞལ་ལྕེ* (heinous blood crimes). Since the manuscript’s first earmark correctly labels the whole text as *ཞལ་ལྕེ་བཅུ་དྲུག*, and chapter 12 is titled *བཅུ་གཉིས་པ་རྐུས་པ་འཇལ་གྱི་ཞལ་ལྕེ* (Adjudication of Theft), it is likely that these earmarks were added by someone for quick reference. The theft/robbery label suggests they saw **robbery and violent crime as closely related**, possibly because theft often involved force. This reflects a **practical rather than strict textual reading**, where legal cases of looting, banditry, or violent theft were handled under related statutes.
 
 ### 1.3. Paleographical features
 
