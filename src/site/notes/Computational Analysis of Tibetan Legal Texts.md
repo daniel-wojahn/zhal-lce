@@ -35,7 +35,7 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
 
 ### 4.1. Word Mover’s Distance (WMD)
 - **What it measures:** WMD calculates the effort needed to transform one text into another using word embeddings, capturing semantic similarity. 
-  Since the [MiLMo repository](https://huggingface.co/CMLI-NLP/MiLMo)  offers two vector files, one trained on the word-level (藏文-词级别) and another on the syllable-level (藏文-音节). 
+  The [MiLMo repository](https://huggingface.co/CMLI-NLP/MiLMo)  offers two vector files, one trained on the word-level (藏文-词级别) and another on the syllable-level (藏文-音节). 
   After experimenting with both, I realized that the **Word-level WMD** suffered from segmentation inconsistencies whereas the **Syllable-level WMD** provided more stable results, aligning better with the other similarity metrics. This is likely due to the fact that it **captures sub-word patterns** relevant for morphological variation, and **works better across manuscript traditions** by smoothing out editorial inconsistencies.
   
 - Overall, it **provides a complementary perspective** to the POS-based similarity metrics, capturing semantic relationships beyond structural overlap.
@@ -45,7 +45,7 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
 ##### Interpretation:
   - The Bhutan, Dolanji, and Leiden versions exhibit relatively small WMD values when compared to each other, suggesting a high degree of semantic similarity.
   - Bailey 16 consistently shows slightly higher WMD values when compared to the Bhutan and Dolanji versions, indicating some lexical or semantic drift in the manuscript tradition.
-  - The **highest WMD values appear in chapter 1 across multiple comparisons**, suggesting that it varies significantly in wording across the versions.
+  - The **highest WMD values appear in chapters 6, 9, and 12 across multiple comparisons**, suggesting that it varies significantly in wording across the versions.
 
 
 ### 4.2. Longest Common Subsequence (LCS)
@@ -114,3 +114,5 @@ Meelen, M., Roux, É., & Hill, N. (2021). Optimisation of the Largest Annotated 
 J. Deng, H. Shi, X. Yu, W. Bao, Y. Sun and X. Zhao. (2023). "MiLMo:Minority Multilingual Pre-Trained Language Model," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 329–334. https://doi.org/10.1109/SMC53992.2023.10393961
 
 Wang, J., & Dong, Y. (2020). Measurement of Text Similarity: A Survey. _Information (Basel)_, _11_(9), 421-. https://doi.org/10.3390/info11090421
+
+Yan Li, Xiaomin Li, Yiru Wang, Hui Lv, Fenfang Li, and La Duo. (2022). Character-based Joint Word Segmentation and Part-of-Speech Tagging for Tibetan Based on Deep Learning. *ACM Trans. Asian Low-Resour. Lang. Inf. Process*, 21(5). https://doi.org/10.1145/3511600
