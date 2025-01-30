@@ -67,9 +67,9 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
 ![Syntactic Distance Heatmap](/img/user/assets/heatmap_syntactic_distance.png)
 
 ##### Interpretation:
-  - Certain chapters, such as 8 and 9, show **low syntactic distance**, which means that the sentence structure has been preserved across different versions.
-  - Conversely, **chapters 1 and 16 show very high syntactic distances**, suggesting that these sections underwent the most substantial rewording or restructuring.
-  - Bailey 16 seems to diverge slightly more in terms of syntactic distance from the Bhutan and Dolanji versions, reinforcing the hypothesis that it represents an older or less standardized variant.
+  - **Chapters 3, 4, and 6 display relatively low syntactic distances**, indicating that sentence structures in these sections have remained more consistent across versions. This suggests fewer structural alterations, whether due to shared editorial lineage or limited rewording.
+  - Conversely, **Chapters 8, 9, and 12 show the highest syntactic distances**, suggesting that these sections underwent the most substantial rewording or restructuring.
+  - **Bailey 16 appears to diverge more from Bhutan and Dolanji in several chapters**, reinforcing the idea that it represents a syntactically distinct variant. Whether this reflects an older form or editorial independence requires further investigation.
 
 
 ### 4.4. Weighted Jaccard Similarity
