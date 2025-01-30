@@ -25,13 +25,13 @@ This manuscript seems to be the oldest textual witness of the *zhal lce bcu drug
 
 There are several indications that this manuscript must have been a student or research copy. While some manuscripts, such as [[Witnesses/Bell 16\|Bell 16]], show heavy signs of use and were produced in a handy travel size, Bailey (16) — by its size alone (36,5cm x 4,5cm) — is too impractical for quick consultation. 
 
-There are also three glued bookmarks:
+**There are also three glued bookmarks:**
 * \[fol. 19b] reads *zhal lce bcu drug*, and marks the beginning of the actual pronouncements
 * \[fol. 29b] reads *drug pa rku jag skor* and marks the beginning of the sixth paragraph
 * \[fol. 46b], *rkun khrims*, marking the beginning of the twelfth paragraph.
 
 ##### Interpretation
-The earmark *དྲུག་པ་རྐུ་ཇག་སྐོར་* (theft/robbery) doesn’t match the actual chapter title, *དྲུག་པ་ནག་ཅན་ཁྲག་ཅོར་གྱི་ཞལ་ལྕེ* (heinous blood crimes). Since the manuscript’s first earmark correctly labels the whole text as *ཞལ་ལྕེ་བཅུ་དྲུག*, and chapter 12 is titled *བཅུ་གཉིས་པ་རྐུས་པ་འཇལ་གྱི་ཞལ་ལྕེ* (Adjudication of Theft), it is likely that these earmarks were added by someone for quick reference. The theft/robbery label suggests they saw **robbery and violent crime as closely related**, possibly because theft often involved force. This reflects a **practical rather than strict textual reading**, where legal cases of looting, banditry, or violent theft were handled under related statutes.
+The earmark *དྲུག་པ་རྐུ་ཇག་སྐོར་* (theft/robbery) doesn’t match the actual chapter title, དྲུག་པ་ནག་ཅན་ཁྲག་ཅོར་གྱི་ཞལ་ལྕེ (heinous blood crimes). Since the manuscript’s first earmark correctly labels the whole text as ཞལ་ལྕེ་བཅུ་དྲུག, and chapter 12 is titled བཅུ་གཉིས་པ་རྐུས་པ་འཇལ་གྱི་ཞལ་ལྕེ (Adjudication of Theft), it is likely that these earmarks were added by someone for quick reference. The theft/robbery label suggests they saw **robbery and violent crime as closely related**, possibly because theft often involved force. This reflects a **practical rather than strict textual reading**, where legal cases of looting, banditry, or violent theft were handled under related statutes.
 
 ### 1.3. Paleographical features
 
