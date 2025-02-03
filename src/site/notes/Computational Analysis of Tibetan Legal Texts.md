@@ -61,8 +61,7 @@ Various computational methods, including [[Computational Analysis of Tibetan Leg
 
 
 ### 4.3. Syntactic Distance (POS-Level)
-- **What it measures:** This metric calculates how different the grammatical structure of two texts is by comparing their POS sequences.
-- Variations in function words and grammatical structures influenced distance calculations.
+- **What it measures:** This metric calculates the Levenshtein distance between POS tag sequences of two texts, counting the minimum number of operations (insertions, deletions, substitutions) needed to transform one sequence into another. For example, if one text uses a noun (n) where another uses an adjective (adj), that counts as one substitution operation. Higher numbers indicate more structural differences between texts.
 
 ![Syntactic Distance Heatmap](/img/user/assets/heatmap_syntactic_distance.png)
 
