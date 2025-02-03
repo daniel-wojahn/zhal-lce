@@ -107,12 +107,12 @@ H -->|Syllable-Level| J["Word2Vec Model (MiLMo)"]
 ---
 ##### Secondary reading:
 
-Griffiths, R. (2024). “Handwritten Text Recognition (HTR) for Tibetan Manuscripts in Cursive Script”. *Revue d’Etudes Tibétaines*, 72, 43–51. https://doi.org/10.1553/TibSchol_ERC_HTR
+Deng, J., Shi, H., Yu, X., Bao, W., Sun, Y., & Zhao, X. (2023). "MiLMo: Minority Multilingual Pre-Trained Language Model," *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Honolulu, Oahu, HI, USA, 329–334. [https://doi.org/10.1109/SMC53992.2023.10393961](https://doi.org/10.1109/SMC53992.2023.10393961)
 
-Meelen, M., Roux, É., & Hill, N. (2021). Optimisation of the Largest Annotated Tibetan Corpus Combining Rule-based, Memory-based, and Deep-learning Methods. _ACM Transactions on Asian and Low-Resource Language Information Processing_, _20_(1), 1–11. https://doi.org/10.1145/3409488
+Griffiths, R. (2024). “Handwritten Text Recognition (HTR) for Tibetan Manuscripts in Cursive Script”. *Revue d’Etudes Tibétaines*, *72*, 43–51. [https://doi.org/10.1553/TibSchol_ERC_HTR](https://doi.org/10.1553/TibSchol_ERC_HTR)
 
-J. Deng, H. Shi, X. Yu, W. Bao, Y. Sun and X. Zhao. (2023). "MiLMo:Minority Multilingual Pre-Trained Language Model," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 329–334. https://doi.org/10.1109/SMC53992.2023.10393961
+Li, Y., Li, X., Wang, Y., Lv, H., Li, F., & Duo, L. (2022). Character-based Joint Word Segmentation and Part-of-Speech Tagging for Tibetan Based on Deep Learning. *ACM Transactions on Asian and Low-Resource Language Information Processing*, *21*(5). [https://doi.org/10.1145/3511600](https://doi.org/10.1145/3511600)
 
-Wang, J., & Dong, Y. (2020). Measurement of Text Similarity: A Survey. _Information (Basel)_, _11_(9), 421-. https://doi.org/10.3390/info11090421
+Meelen, M., Roux, É., & Hill, N. (2021). Optimisation of the Largest Annotated Tibetan Corpus Combining Rule-based, Memory-based, and Deep-learning Methods. _ACM Transactions on Asian and Low-Resource Language Information Processing_, _20_(1), 1–11. [https://doi.org/10.1145/3409488](https://doi.org/10.1145/3409488)
 
-Yan Li, Xiaomin Li, Yiru Wang, Hui Lv, Fenfang Li, and La Duo. (2022). Character-based Joint Word Segmentation and Part-of-Speech Tagging for Tibetan Based on Deep Learning. *ACM Trans. Asian Low-Resour. Lang. Inf. Process*, 21(5). https://doi.org/10.1145/3511600
+Wang, J., & Dong, Y. (2020). Measurement of Text Similarity: A Survey. _Information (Basel)_, _11_(9), 421. [https://doi.org/10.3390/info11090421](https://doi.org/10.3390/info11090421)
