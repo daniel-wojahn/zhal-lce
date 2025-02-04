@@ -7,6 +7,11 @@
 This document outlines the use of Python and NLP techniques used to analyze a small  Tibetan text corpus of the *zhal lce bcu drug*. One early edition of the *zhal lce bcu gsum* corpus was also included to explore textual variation. 
 Various computational methods, including [[Computational Analysis of Tibetan Legal Texts#4.1. Word Mover’s Distance (WMD)\|Word Mover’s Distance]], [[Computational Analysis of Tibetan Legal Texts#4.3. Syntactic Distance (POS-Level)\|Syntactic Distance (POS-Level)]], [[Computational Analysis of Tibetan Legal Texts#4.2. Longest Common Subsequence (LCS)\|Longest Common Subsequence (LCS)]], and [[Computational Analysis of Tibetan Legal Texts#4.4. Weighted Jaccard Similarity\|Weighted Jaccard Similarity]], were applied to measure textual similarity and structural differences.
 
+```ad-done
+The GitHub repository is now online available at https://github.com/daniel-wojahn/tibetan-text-metrics
+
+```
+
 
 ## 2. Text Preparation and Preprocessing
 
