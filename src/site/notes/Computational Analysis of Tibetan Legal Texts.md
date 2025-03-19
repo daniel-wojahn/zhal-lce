@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computational-analysis-of-tibetan-legal-texts/"}
+{"dg-publish":true,"permalink":"/computational-analysis-of-tibetan-legal-texts/","tags":["graph-exclude"]}
 ---
 
 # Computational Analysis of Tibetan Legal Texts
@@ -25,13 +25,13 @@ The GitHub repository is now online available at https://github.com/daniel-wojah
 
 
 ## 3. Text Corpus
-- [[Witnesses/Bailey 16\|Bailey 16]]: As a working hypothesis, we consider this manuscript to be the earliest legal code of the Ganden Phodrang administration, composed in its first year (1642).
-- [[Witnesses/Bhutan 16\|Bhutan 16]], [[Witnesses/Dolanji 16\|Dolanji 16]], and [[Witnesses/Leiden 16\|Leiden 16]]  all reflect regional variations in the textual transmission of a presumably earlier version, likely composed under the auspices of the Tsang king [[Historical figures/Karma Tenkyong Wangpo\|Karma Tenkyong Wangpo]].
+- [[Witnesses/Bailey\|Bailey]]: As a working hypothesis, we consider this manuscript to be the earliest legal code of the Ganden Phodrang administration, composed in its first year (1642).
+- [[Witnesses/Bhutan\|Bhutan]], [[Witnesses/Dolanji\|Dolanji]], and [[Witnesses/Leiden\|Leiden]]  all reflect regional variations in the textual transmission of a presumably earlier version, likely composed under the auspices of the Tsang king [[Historical figures/Karma Tenkyong Wangpo\|Karma Tenkyong Wangpo]].
 - <u>Japan13</u>: This manuscript of the *zhal lce bcu gsum* (detailed in the [Toyo Bunko repository](https://toyo-bunko.repo.nii.ac.jp/records/7448)<u></u>), likely written in 1643, has been included to shed light on the textual evolution of the *zhal lce* genre. 
 
 > [!info]
 > To maintain alignment, the three missing chapters in <u>Japan13</u> (1, 2, and 16) were added as empty placeholders, causing systematic outliers in the heat maps. 
-- **Future Additions:** The [[Witnesses/Bell 16\|Bell 16]] and [[Witnesses/LTWA 02 16\|LTWA 02 16]] editions are slated for future inclusion in the corpus upon completion of their transcription. 
+- **Future Additions:** The [[Witnesses/Bell 16\|Bell 16]] and [[Witnesses/LTWA\|LTWA]] editions are slated for future inclusion in the corpus upon completion of their transcription. 
 
 
 
