@@ -24,6 +24,6 @@ LTWA Ta.5.1 (13545). (Part of BDRC’s artificial collection “Khrims yig chen 
 ### Table of contents
 
 * 1a-15a seems to be the same as [[Witnesses/Bailey#2. The Foundation of the Dharma and the Role of Royal Law [fol.4a7–5b3\|Bailey#2. The Foundation of the Dharma and the Role of Royal Law [fol.4a7–5b3]]] up to [[Witnesses/Bailey#4. Principles of Criminal Law and Sentencing [fol.6b5–8a5\|Bailey#4. Principles of Criminal Law and Sentencing [fol.6b5–8a5]]]
-* 16a-29a are yet to be identified further remarks
-* 30a–68a seems to be the *khrims zig zhal lce bcu gnyis*
+* 16a-29a are yet to be identified further remarks (Possibly similar to TLM’s *gtsang pa sde srid karma bstan skyong dbang po'i khrims yig*; fol.96-112)
+* 30a–68a seems to be the *khrims yig zhal lce bcu gnyis*
 * 68a–80b are various appendices (need to read further)
