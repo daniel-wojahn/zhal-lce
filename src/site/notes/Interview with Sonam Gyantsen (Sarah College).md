@@ -1,6 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/interview-with-sonam-gyantsen-sarah-college/"}
 ---
+# Interview with Sonam Gyantsen (Sarah College)
 
 Sonam Gyantsen is a Professor of Linguistics and History at Sarah College for Higher Tibetan Studies, Dharamsalahas conducted extensive research on Tibet's historical legal system. His expertise notably influenced his student Tsangtruk Topla's commissioned work for the Central Tibetan Administration's Supreme Justice Commission, "A Critical Analysis of Ancient Tibetan Legal Documents" (Gtsang phrug stobs lags. 2021. _Bod kyi sngar srol khrims yig zhib ʼjug_. Gangchen Kyishong, Dharamsala: Btsan byol bod miʼi ches mthoʼi khrims zhib khang).
 
