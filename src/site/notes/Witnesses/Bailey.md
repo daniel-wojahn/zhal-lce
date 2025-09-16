@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/witnesses/bailey/","tags":["gardenEntry"]}
 ---
 
-# Bailey
+4# Bailey
 ## 1. Research notes
 
 ### 1.1.Description of manuscript
@@ -11,7 +11,7 @@ Very thick firm paper. Sheet: 365 x 45 mm, folded across middle to form two leav
 Sections: 1) — 13 leaves; 2) – 20 leaves; 3) – 18 leaves; 4) – 20 leaves; and 5) – 13 leaves -> total 84 in all. Note that the sections do not correspond to the content.
 
 ### 1.2. Remarks
-This manuscript seems to be the oldest textual witness of the *zhal lce bcu drug*. There is a date of composition (*chu lug hor zla bcu pa*) which seems to indicate the year 1583. However, neither the complete text has survived, nor does it appear to be a monolithic or 'single-cast' manuscript. The page numbers, probably added later, indicate that the first three folios (1a-3b) are missing, as the first page of the manuscript (hidden under the silk cover) is labelled page 4. Moreover, 14 pages previously left blank due to the original manuscript's binding have been written on in a different script (*tshugs ma ‘khyug*) (16a–16b3; 35b–36a; 53b–54a; 73b–74a; 84b–86b). Another hand also added the conversion table for compensation payments (81b–84a).
+This manuscript seems to be the oldest textual witness of the *zhal lce bcu drug*. There is a date of composition (*chu lug hor zla bcu pa*) which seems to indicate the year 1642. However, neither the complete text has survived, nor does it appear to be a monolithic or 'single-cast' manuscript. The page numbers indicate that the first three folios (1a-3b) are missing, as the first page of the manuscript (hidden under the silk cover) is labelled page 4. Moreover, 14 pages previously left blank due to the original manuscript's binding have been written on in a different script (*tshugs ma ‘khyug*) (16a–16b3; 35b–36a; 53b–54a; 73b–74a; 84b–86b). Another hand also added the conversion table for compensation payments (81b–84a).
 
 There are several indications that this manuscript must have been a student or research copy. While some manuscripts, such as *Bell 16*, show heavy signs of use and were produced in a handy travel size, Bailey — by its size alone (36,5cm x 4,5cm) — is too impractical for quick consultation. 
 
@@ -67,7 +67,7 @@ While these variations might be meaningful rather than just decorative, I will n
 
 ### 3. Historical Legal Precedents and the Current Ruler’s Authority \[fol.5b3–6b5]
 
-### 4. “Legal Survey”
+### 4. *Khrims yig chen mo* (1631)
 
 #### 4.1. Homicide: Compensation and Punishment (fol.6b5–9a3)
 #### 4.2. Wounding and Injury (fol.9a3–10a5)
@@ -103,7 +103,7 @@ While these variations might be meaningful rather than just decorative, I will n
 13. \[46b.7–48a.5]
 14. \[48a.6–49a.3]
 15. \[49a.4–49b.3]
-16. \[49b.4–52a.2]
+16. \[49b.4–52a.2]ཀླ་ཀློ་མཐའ་འཁོབ་ ལྷོ་མོན་ ཧོར་སོག་
 #### 7.17. Concluding verses (52a.2–52b.3)
 ### 8. Appendices
 #### 8.1. Furthermore, regarding various matters (fol.52b4–53a7)
